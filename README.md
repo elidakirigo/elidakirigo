@@ -3,9 +3,8 @@
 - 📫 How to reach me: ...on the email at the description section
 - 👯 I’m looking to collaborate on ...creating amazing websites.
 
-![alt text](https://cdn.abcotvs.com/dip/images/5332891_S108767171.JPG?w=1600)
+![alt text](https://cdn.abcotvs.com/dip/images/5332891_S108767171.JPG?w=30)
 
-<img src="https://cdn.abcotvs.com/dip/images/5332891_S108767171.JPG?w=1600" width="20px"height="30px">
 <!--
 <iframe src="https://giphy.com/embed/xT9DPCU60mRbtGw7Ys" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/spongebob-cartoon-nickelodeon-thumbs-xT9DPCU60mRbtGw7Ys">via GIPHY</a></p>
 
