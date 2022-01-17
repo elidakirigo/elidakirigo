@@ -6,7 +6,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-[![commits.top rank](http://biego.tech/commits.php?user=Diana-nyamai&country=kenya)](https://commits.top/kenya.html)
+[![commits.top rank](http://biego.tech/commits.php?user=elidakirigo&country=kenya)](https://commits.top/kenya.html)
 ![alt text](https://cdn.abcotvs.com/dip/images/5332891_S108767171.JPG?w=200)
 
 
