@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-008b8b?&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-4c008b?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
