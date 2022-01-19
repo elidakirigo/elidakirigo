@@ -1,9 +1,9 @@
 <!-- ## Hello there  -->
-<style>
+<!-- <style>
   font-face{
       font-family:disney;
   }
-</style>
+</style> -->
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, I'm Elida</h1>
 <h2  align="center">a UI enthusiast and pro frontend dev. <br/> welcome to my github page. a place i binge  my coding ideas</h2>
