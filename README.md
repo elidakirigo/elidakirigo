@@ -35,7 +35,7 @@
 
 
   **<h6 align="center"> ⚡⚡ About me & hobbies :</h6>**
-  <h6 align="center">i like to  _travel_ and do _photography_. <br/> i'm currently teaching my mind to read articles , books and informative blogs occasionally. </h6> 
+  _<h6 align="center">i like to  travel and do photography. <br/> i'm currently teaching my mind to read articles , books and informative blogs occasionally. </h6>_
   
 <!--
 - 🔭 I’m currently working on ...meeting my clients needs!
