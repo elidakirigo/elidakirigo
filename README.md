@@ -34,7 +34,9 @@
 <!-- ![alt text](/img/tumblr_o1n96vth4D1ufi43qo1_500.png?w=200) -->
 
 
- ⚡ **About me & hobbies**: i like to  _travel_ and do _photography_. i'm currently teaching my mind to read articles , books and informative blogs occasionally. 
+  **<h6 align="center"> ⚡⚡ About me & hobbies :</h6>**
+  _<h6 align="center">i like to  travel and do photography. <br/> i'm currently teaching my mind to read articles , books and informative blogs occasionally. </h6>_
+  
 <!--
 - 🔭 I’m currently working on ...meeting my clients needs!
 - 📫 How to reach me: ...on the email at the description section
