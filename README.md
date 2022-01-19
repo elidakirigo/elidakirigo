@@ -13,6 +13,7 @@
 <h3 align="center">languages and tools i take focus in :</h3>
 
 ![HTML5](https://img.shields.io/badge/-Html5-4dbae6?&logo=Html5)
+![JQUERY](https://img.shields.io/badge/-Jquery-4dbae6?&logo=Jquery)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-4dbae6?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-4dbae6?&logo=TypeScript)
 ![AWS](https://img.shields.io/badge/-AWS-4dbae6?&logo=Amazon-AWS&logoColor=fff)
@@ -21,6 +22,8 @@
 ![React](https://img.shields.io/badge/-React-4dbae6?&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-4dbae6?&logo=Angular)
 ![CSS](https://img.shields.io/badge/-CSS3-4dbae6?&logo=CSS3)
+![VScode](https://img.shields.io/badge/-vscode-4dbae6?&logo=vscode)
+
 
 *<h4>github's data statistics</h4>*
 <a href="/" align ="center">
