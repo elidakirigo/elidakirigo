@@ -1,8 +1,8 @@
 <!-- ## Hello there  -->
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, I'm Elida</h1>
 
-<a href="https://github.com/elidakirigo/github-readme-activity-graph"><img alt="Elida Kirigo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elidakirigo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
-<a href="/">
+<a align ="center" href="https://github.com/elidakirigo/github-readme-activity-graph"><img alt="Elida Kirigo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elidakirigo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
+<a href="/" align ="center">
 <img  width='350px' src="https://github-readme-stats.vercel.app/api?username=elidakirigo&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=331e1e&icon_color=bb068e&bg_color=4dbae6&theme=graywhite" />
 <img  width='300px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidakirigo&hide=html&hide_title=true&hide_border=false&layout=compact&langs_count=8&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=4dbae6&theme=graywhite" /></a>
 
