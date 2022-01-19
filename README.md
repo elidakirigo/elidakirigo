@@ -5,12 +5,12 @@
   }
 </style> -->
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, I'm Elida</h1>
-<h2  align="center">a UI enthusiast and pro frontend dev. <br/> welcome to my github page. A place i binge  my coding ideas</h2>
+<h4 align="center" style="font-family:cursive">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, I'm Elida</h4>
+<h4  align="center">a UI enthusiast and pro frontend dev. <br/> welcome to my github page. A place i binge  my coding ideas</h4>
 
 <a align ="center" href="https://github.com/elidakirigo/github-readme-activity-graph"><img alt="Elida Kirigo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elidakirigo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
 
-<h3 align="center">languages and tools i take focus in :</h3>
+*<h3 align="center">languages and tools i take focus in :</h3>*
 
 ![HTML5](https://img.shields.io/badge/-Html5-4dbae6?&logo=Html5)
 ![JQUERY](https://img.shields.io/badge/-Jquery-4dbae6?&logo=Jquery)
