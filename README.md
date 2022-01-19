@@ -22,11 +22,11 @@
 ![Angular](https://img.shields.io/badge/-Angular-4dbae6?&logo=Angular)
 ![CSS](https://img.shields.io/badge/-CSS3-4dbae6?&logo=CSS3)
 
-*<h1 align="center">github's data statistics</h1>*
+*<h4>github's data statistics</h4>*
 <a href="/" align ="center">
 <img align="center"  width='400px' src="https://github-readme-stats.vercel.app/api?username=elidakirigo&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=331e1e&icon_color=bb068e&bg_color=4dbae6&theme=graywhite" />
 
-*<h1 align="center">most used lang:</h1>*
+*<h4>most used lang:</h4>*
 <img align="center"  width='400px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidakirigo&hide=html&hide_title=true&hide_border=false&layout=compact&langs_count=8&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=4dbae6&theme=graywhite" /></a>
 <!-- ![alt text](/img/tumblr_o1n96vth4D1ufi43qo1_500.png?w=200) -->
 
