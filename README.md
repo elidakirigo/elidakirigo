@@ -10,7 +10,7 @@
 
 <a align ="center" href="https://github.com/elidakirigo/github-readme-activity-graph"><img alt="Elida Kirigo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elidakirigo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
 
-*<h3 align="center">languages and tools i take focus in :</h3>*
+*<h4 align="center">languages and tools i take focus in :</h4>*
 
 ![HTML5](https://img.shields.io/badge/-Html5-4dbae6?&logo=Html5)
 ![JQUERY](https://img.shields.io/badge/-Jquery-4dbae6?&logo=Jquery)
