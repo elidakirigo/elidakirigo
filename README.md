@@ -34,8 +34,7 @@
 <!-- ![alt text](/img/tumblr_o1n96vth4D1ufi43qo1_500.png?w=200) -->
 
 
-  **<h6 align="center"> ⚡⚡ About me & hobbies</h6>**: 
-  <br/>
+  **<h6 align="center"> ⚡⚡ About me & hobbies :</h6>**
   <h6 align="center">i like to  _travel_ and do _photography_. i'm currently teaching my mind to read articles , books and informative blogs occasionally. </h6> 
   
 <!--
