@@ -6,7 +6,7 @@
 </style> -->
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, I'm Elida</h1>
-<h2  align="center">a UI enthusiast and pro frontend dev. <br/> welcome to my github page. a place i binge  my coding ideas</h2>
+<h2  align="center">a UI enthusiast and pro frontend dev. <br/> welcome to my github page. A place i binge  my coding ideas</h2>
 
 <a align ="center" href="https://github.com/elidakirigo/github-readme-activity-graph"><img alt="Elida Kirigo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elidakirigo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
 
