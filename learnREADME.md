@@ -13,40 +13,49 @@
   * 3.HAROO PAD
   * 4.MARKDOWN PAD 2
   * 5.TYPORA 
-  --> 
-  
-<!--------------------------- FORMATS -------------------------------->
+  -->
 
-<!-----------------------   * 1.HEADINGS ----------------------------->
+<!--------------------------------------------------------- FORMATS --------------------------------------------->
+
+<!-----------------------------------------------------   * 1.HEADINGS ------------------------------------------>
+
 # Heading 1
+
 ## heading 2
+
 ### heading 3
+
 #### heading 4
+
 ##### heading 5
+
 ###### heading 6
 
 <!-- italics -->
-*this text* is italic
+
+_this text_ is italic
 _this text_ is italic
 
 <!-- strong -->
+
 **this text** is strong
-__this text__ is strong
+**this text** is strong
 
 <!-- strike through -->
+
 ~~this text ~~ is strike through
 
-<!-- horizontal rule -->
+## <!-- horizontal rule -->
+
 ---
-___
 
 <!-- escaping character by using asterisks (nb:you can use this in JavaScript also)  -->
 
 \*this text\* should be italic but its not
 
- <!---------------------------  * 2.LISTS ----------------------------->
- <!---------------------------  * 3.EMPHASIS ------------------------>
- <!---------------------------- * 4.LINKS  ----------------------------->
+ <!---------------------------------------------------------  * 2.LISTS ----------------------------------------->
+ <!---------------------------------------------------------  * 3.EMPHASIS ------------------------------------>
+ <!---------------------------------------------------------- * 4.LINKS  ---------------------------------------->
 
 [elidakirigo](https://github.com/elidairigo)
 
@@ -56,17 +65,68 @@ ___
 
 <!-- UL -->
 
-* item1
-* item2
-* item3
-    * nested item 1
-    * nested item 2
+- item1
+- item2
+- item3
+  - nested item 1
+  - nested item 2
 
- <!---------------------------- * 5.BLOCK OF CODE -->
+<!-- OL -->
 
- <!---------------------------- * 6.IMAGES -->
+1. item1
+2. item2
+3. item3
 
- <!---------------------------- * 7.BLOCK QUOTES -->
- >this is a block of quotes
+or
 
- <!---------------------------- * 8.HORIZONTAL RULES -->
+1. item1
+1. item2
+1. item3
+
+ <!----------------------------------------------------------- * 5.BLOCK OF CODE -------------------------------->
+<!-- inline code block -->
+
+`<p>this is a paragraph </p>`
+
+
+ <!------------------------------------------------------ * 6.IMAGES -------------------------------------------->
+ ![markdown logo](img/tumblr_o1n96vth4D1ufi43qo1_500.png)
+
+<!-- with  A TITLE -->
+
+![markdown logo](img/tumblr_o1n96vth4D1ufi43qo1_500.png "logo")
+
+ <!---------------------------------------------------------- * 7.BLOCK QUOTES ---------------------------------->
+
+> this is a block of quotes
+
+ <!----------------------------------------------------------- * 8.HORIZONTAL RULES ----------------------------->
+
+<!-- github's MARKDOWN -->
+<!-- CODE BLOCK -->
+```
+npm install
+npm start
+```
+<!-- specify -->
+```bash
+npm install
+npm start
+```
+```JavaScript
+function add(x){
+    return x;
+}
+```
+
+<!-- TABLES -->
+| Name       | Email                   |
+| ------------ | --------------------  |
+| John Doe  | john@gmail.com  |
+| Jane Doe  | jane@gmail.com  |
+
+<!-- Task list -->
+
+* [x] task 1
+* [x] task 2
+* [ ] task 3
