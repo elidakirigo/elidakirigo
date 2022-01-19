@@ -1,10 +1,10 @@
 <!-- ## Hello there  -->
-<style>
+<!-- <style>
     h1{background:yellow;
     }
-</style>
+</style> -->
 <div style="background:black;">
-<h1 align="center" style="font-family:;color:blue">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, I'm Elida</h1>
+<h1 align="center" style="color:blue;">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, I'm Elida</h1>
 </div>
 
 <a align ="center" href="https://github.com/elidakirigo/github-readme-activity-graph"><img alt="Elida Kirigo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elidakirigo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
