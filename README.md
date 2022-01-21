@@ -85,6 +85,7 @@
 <!-- ![alt text](/img/tumblr_o1n96vth4D1ufi43qo1_500.png?w=200) -->
 
 ---
+---
 >.
 >.
 >⚡ **About me & hobbies**: i like to 🌱  _travel_ and do ✨ _photography_. i'm currently teaching my mind to read articles , books and informative blogs occasionally. 
