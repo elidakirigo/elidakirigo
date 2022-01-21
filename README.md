@@ -5,12 +5,12 @@
   }
 </style> -->
 
-<h4 align="center" style="font-family:cursive">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, I'm Elida</h4>
-<h4  align="center">a UI enthusiast and pro frontend dev. <br/> welcome to my github page. A place i binge  my coding ideas</h4>
+<h4 align="center" style="font-family:cursive">Hello <img   src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, I'm Elida</h4>
+<h4 style="font-family:cursive"  align="center">a UI enthusiast and pro frontend dev. <br/> welcome to my github page. A place i binge  my coding ideas</h4>
 
 <a align ="center" href="https://github.com/elidakirigo/github-readme-activity-graph"><img alt="Elida Kirigo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elidakirigo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
 
-*<h4 align="center">languages and tools i take focus in :</h4>*
+        languages and tools i take focus in :
 
 ![HTML5](https://img.shields.io/badge/-Html5-4dbae6?&logo=Html5)
 ![JQUERY](https://img.shields.io/badge/-Jquery-4dbae6?&logo=Jquery)
@@ -25,16 +25,16 @@
 ![VScode](https://img.shields.io/badge/-vscode-4dbae6?&logo=vscode)
 
 
-*<h4>github's data statistics</h4>*
+        github's data statistics
 <a href="/" align ="center">
 <img align="center"  width='400px' src="https://github-readme-stats.vercel.app/api?username=elidakirigo&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=331e1e&icon_color=bb068e&bg_color=4dbae6&theme=graywhite" />
 
-*<h4>most used lang:</h4>*
+most used lang:
 <img align="center"  width='400px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidakirigo&hide=html&hide_title=true&hide_border=false&layout=compact&langs_count=8&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=4dbae6&theme=graywhite" /></a>
 <!-- ![alt text](/img/tumblr_o1n96vth4D1ufi43qo1_500.png?w=200) -->
 
 
- ⚡ **About me & hobbies**: i like to  _travel_ and do _photography_. i'm currently teaching my mind to read articles , books and informative blogs occasionally. 
+ >⚡ **About me & hobbies**: i like to 🌱  _travel_ and do ✨ _photography_. i'm currently teaching my mind to read articles , books and informative blogs occasionally. 
 <!--
 - 🔭 I’m currently working on ...meeting my clients needs!
 - 📫 How to reach me: ...on the email at the description section
