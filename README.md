@@ -78,12 +78,13 @@
 * 9. icon_color : fff
 * 10. bg_color : 4dbae6
 * 11. theme :graywhite -->
-* 
 <img width='400px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidakirigo&hide=html&hide_title=true&hide_border=false&layout=compact&langs_count=8&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=4dbae6&theme=graywhite" />
 
 </a>
 
 <!-- ![alt text](/img/tumblr_o1n96vth4D1ufi43qo1_500.png?w=200) -->
+
+
 
 
  >⚡ **About me & hobbies**: i like to 🌱  _travel_ and do ✨ _photography_. i'm currently teaching my mind to read articles , books and informative blogs occasionally. 
