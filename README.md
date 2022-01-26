@@ -61,7 +61,7 @@
 -->
 <a href="/" align ="center">
 
-<img  width='350px' height="167px" src="https://github-readme-stats.vercel.app/api?username=elidakirigo&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=331e1e&icon_color=bb068e&bg_color=4dbae6&theme=graywhite" />
+<img  width='350px' height="137px" src="https://github-readme-stats.vercel.app/api?username=elidakirigo&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=331e1e&icon_color=bb068e&bg_color=4dbae6&theme=graywhite" />
 
 <!--         most used lang: -->
 
@@ -78,7 +78,7 @@
 * 9. icon_color : fff
 * 10. bg_color : 4dbae6
 * 11. theme :graywhite -->
-<img width='317px' height="167px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidakirigo&hide=html&hide_title=true&hide_border=false&layout=compact&langs_count=8&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=4dbae6&theme=graywhite" />
+<img width='317px' height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidakirigo&hide=html&hide_title=true&hide_border=false&layout=compact&langs_count=8&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=4dbae6&theme=graywhite" />
 
 </a>
 <br/>
