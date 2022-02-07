@@ -77,7 +77,8 @@
 * 8. text_color : 000
 * 9. icon_color : fff
 * 10. bg_color : 4dbae6
-* 11. theme :graywhite -->
+* 11. theme :graywhite 
+-->
 <img height="117px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidakirigo&hide=html&hide_title=true&hide_border=false&layout=compact&langs_count=8&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=4dbae6&theme=graywhite" />
 
 </div>
@@ -91,6 +92,10 @@
 >.
 >.
 
+<p align="center"> 
+  <h1>Visit count</h1>
+  <img src="https://profile-counter.glitch.me/elidakirigo/count.svg" />
+</p>
 
 <!--------------------------------------------------------------------------------------------------------------------
 - 🔭 I’m currently working on ...meeting my clients needs!
