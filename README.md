@@ -44,7 +44,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/prettiekirkie?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=prettiekirkie)
 <!-- [![Github Follow](https://img.shields.io/github/follow/elidakirigo?label=People%20following%20me%20on%20Github&style=social)](https://github.com/intent/follow?screen_name=elidakirigo) -->
-      Profile Visits : <img src="https://profile-counter.glitch.me/elidakirigo/count.svg" width="150px"/>
+ <h6>Profile Visits : <img src="https://profile-counter.glitch.me/elidakirigo/count.svg" width="150px"/></h6>
 
         GitHub's Data Statistics
 <!--------------------------------------GITHUB STATS -------------------------------------->
