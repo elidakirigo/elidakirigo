@@ -40,13 +40,11 @@
 ![CSS](https://img.shields.io/badge/-CSS3-4dbae6?&logo=CSS3)
 ![VScode](https://img.shields.io/badge/-VSCode-4dbae6?&logo=VSCode)
 
-        socials
+        socials & visit count
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/prettiekirkie?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=prettiekirkie)
 <!-- [![Github Follow](https://img.shields.io/github/follow/elidakirigo?label=People%20following%20me%20on%20Github&style=social)](https://github.com/intent/follow?screen_name=elidakirigo) -->
-<p align="right"> 
- visit count : <img src="https://profile-counter.glitch.me/elidakirigo/count.svg" width="150px"/>
-</p>
+<img src="https://profile-counter.glitch.me/elidakirigo/count.svg" width="150px"/>
 
         github's data statistics
 <!--------------------------------------GITHUB STATS -------------------------------------->
