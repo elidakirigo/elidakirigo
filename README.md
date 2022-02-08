@@ -53,7 +53,7 @@
 * 2. hide_title : true
 * 3. hide_border : false
 * 4. show_icons : true
-* 5. include_all_commits : true
+* 5. include_all_commits : false
 * 6. count_private : true
 * 7. line_height : 21
 * 8. text_color : 331e1e
@@ -63,7 +63,7 @@
 -->
 <div align ="center">
 
-<img height="117px" src="https://github-readme-stats.vercel.app/api?username=elidakirigo&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=331e1e&icon_color=bb068e&bg_color=4dbae6&theme=graywhite" />
+<img height="117px" src="https://github-readme-stats.vercel.app/api?username=elidakirigo&hide_title=true&hide_border=false&show_icons=true&include_all_commits=false&count_private=true&line_height=21&text_color=331e1e&icon_color=bb068e&bg_color=4dbae6&theme=graywhite" />
 
 <!--         most used Lang: -->
 
