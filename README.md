@@ -42,8 +42,9 @@
 
         Socials & Visit Count
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/prettiekirkie?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=prettiekirkie)
-<!-- [![Github Follow](https://img.shields.io/github/follow/elidakirigo?label=People%20following%20me%20on%20Github&style=social)](https://github.com/intent/follow?screen_name=elidakirigo) -->
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/prettiekirkie?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=prettiekirkie) -->
+[![GitHub followers](https://img.shields.io/github/followers/elidakirigo?color=%23181717&label=Eric%20Mahasi&logo=github&style=for-the-badge)][github]
+[![Twitter Follow](https://img.shields.io/twitter/follow/kirkieUi?color=%231DA1F2&logo=twitter&style=for-the-badge)][twitter]
  <h6>Profile Visits : <img src="https://profile-counter.glitch.me/elidakirigo/count.svg" width="150px"/></h6>
 
         GitHub's Data Statistics
