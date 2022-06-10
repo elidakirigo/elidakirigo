@@ -5,7 +5,7 @@
   }
 </style> -->
 
-<h4 align="center" style="font-family:cursive">Hello <img   src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, I'm Elida!</h4>
+<h4 align="center" style="font-family:cursive">Hello <img   src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%" hieght="5%">, I'm Elida!</h4>
 <h4 style="font-family:cursive"  align="center">a UI Enthusiast and pro Front-end dev. <br/> Welcome to my GitHub page. A place i binge  my Coding Ideas.</h4>
 
 <!----------------------------------------- ACTIVE GRAPH ---------------------------------->
