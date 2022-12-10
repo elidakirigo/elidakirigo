@@ -91,7 +91,7 @@
 ---
 >.
 >.
->⚡ **About me & hobbies**: i like to  do ✨ _photography_ while listening to alot of podcasts. i'm currently teaching my mind to read articles , books and informative blogs occasionally. 
+>⚡ **About me & hobbies**: i like to  do ✨ _photography_ while listening to podcasts. i'm currently teaching my mind to read articles , books and informative blogs occasionally. 
 >.
 >.
 
