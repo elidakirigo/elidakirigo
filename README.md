@@ -17,9 +17,9 @@
 * 5. point : FFFFFF
 * 6. hide_border : false
 * -->
-<a align ="center" href="https://github.com/elidakirigo/github-readme-activity-graph">
+<!--<a align ="center" href="https://github.com/elidakirigo/github-readme-activity-graph">
     <img alt="Elida Kirigo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elidakirigo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" />
-</a>
+</a>-->
 
         Languages and Tools i take focus in :
 
