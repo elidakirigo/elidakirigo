@@ -62,7 +62,7 @@
 -->
 <div align ="center">
 
-<img height="110px" src="https://github-readme-stats.vercel.app/api?username=elidakirigo&hide_title=true&hide_border=false&show_icons=true&include_all_commits=false&count_private=true&line_height=21&text_color=331e1e&icon_color=bb068e&bg_color=4dbae6&theme=graywhite" />
+<img height="110px" src="https://github-readme-stats.vercel.app/api?username=elidakirigo&hide_title=true&hide_border=false&show_icons=true&include_all_commits=false&count_private=true&line_height=21&text_color=331e1e&icon_color=bb068e&bg_color=2d075e&theme=graywhite" />
 
 <!--         most used Lang: -->
 
@@ -80,7 +80,7 @@
 * 10. bg_color : 4dbae6
 * 11. theme :graywhite 
 -->
-<img height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidakirigo&hide=html&hide_title=true&hide_border=false&layout=compact&langs_count=8&count_private=true&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=4dbae6&theme=graywhite" />
+<img height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidakirigo&hide=html&hide_title=true&hide_border=false&layout=compact&langs_count=8&count_private=true&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&bg_color=2d075e&theme=graywhite" />
 
 </div>
 <br/>
