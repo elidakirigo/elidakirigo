@@ -62,7 +62,7 @@
 -->
 <div align ="center">
 
-<img height="110px" src="https://github-readme-stats.vercel.app/api?username=elidakirigo&hide_title=true&hide_border=false&show_icons=true&include_all_commits=false&count_private=true&line_height=21&text_color=fff&icon_color=fff&bg_color=2d075e&theme=graywhite" />
+<img height="110px" src="https://github-readme-stats.vercel.app/api?username=elidakirigo&hide_title=true&hide_border=false&show_icons=true&include_all_commits=false&count_private=true&line_height=21&text_color=fff&icon_color=b6c621&bg_color=2d075e&theme=graywhite" />
 
 <!--         most used Lang: -->
 
