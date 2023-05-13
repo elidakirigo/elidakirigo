@@ -28,16 +28,16 @@
 * 1. name :  Html5
 * 2. color : 4dbae6
 * -->
-<!-- ![HTML5](https://img.shields.io/badge/-Html5-4dbae6?&logo=Html5) -->
-![JavaScript](https://img.shields.io/badge/-JavaScript-4dbae6?&logo=JavaScript)
-![JQUERY](https://img.shields.io/badge/-Jquery-4dbae6?&logo=Jquery)
-![TypeScript](https://img.shields.io/badge/-TypeScript-4dbae6?&logo=TypeScript)
-![AWS](https://img.shields.io/badge/-AWS-4dbae6?&logo=Amazon-AWS&logoColor=fff)
-![UBUNTU](https://img.shields.io/badge/-Linux-4dbae6?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-4dbae6?&logo=node.js)
-![React](https://img.shields.io/badge/-React-4dbae6?&logo=React)
-![Angular](https://img.shields.io/badge/-Angular-4dbae6?&logo=Angular)
-![SCSS](https://img.shields.io/badge/-CSS3-4dbae6?&logo=CSS3)
+<!-- ![HTML5](https://img.shields.io/ba2d075edge/-Html5-2d075e?&logo=Html5) -->
+![JavaScript](https://img.shields.io/badge/-JavaScript-2d075e?&logo=JavaScript)
+![JQUERY](https://img.shields.io/badge/-Jquery-2d075e?&logo=Jquery)
+![TypeScript](https://img.shields.io/badge/-TypeScript-2d075e?&logo=TypeScript)
+![AWS](https://img.shields.io/badge/-AWS-2d075e?&logo=Amazon-AWS&logoColor=fff)
+![UBUNTU](https://img.shields.io/badge/-Linux-2d075e?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-2d075e?&logo=node.js)
+![React](https://img.shields.io/badge/-React-2d075e?&logo=React)
+![Angular](https://img.shields.io/badge/-Angular-2d075e?&logo=Angular)
+![SCSS](https://img.shields.io/badge/-CSS3-2d075e?&logo=CSS3)
 
         Socials & Visit Count
 
