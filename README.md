@@ -9,6 +9,8 @@
 <h4 style="font-family:cursive"  align="center">a UI Enthusiast and pro Front-end dev. <br/> Welcome to my GitHub page. A place i binge  my Coding Ideas.</h4>
 
 <!----------------------------------------- ACTIVE GRAPH ---------------------------------->
+<a href="http://www.github.com/elidakirigo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=elidakirigo&bg_color=2d075e&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 <!-- added
 * 1.username : elidakirigo
 * 2.bg_color :  0D1117
