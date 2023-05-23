@@ -9,7 +9,7 @@
 <h4 style="font-family:cursive"  align="center">a UI <span style="color:#2d075e">Enthusiast</span> and <span style="color:#2d075e">pro</span> Front-end dev. <br/> Welcome to my GitHub page. A place i binge  my Coding Ideas.</h4>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" />
 </div>
 <!----------------------------------------- ACTIVE GRAPH ---------------------------------->
 <!-- <a href="http://www.github.com/elidakirigo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=elidakirigo&bg_color=2d075e&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
