@@ -8,6 +8,9 @@
 <h4 align="center" style="font-family:cursive">Hello <img   src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%" hieght="5%">, I'm Elida!</h4>
 <h4 style="font-family:cursive"  align="center">a UI Enthusiast and pro Front-end dev. <br/> Welcome to my GitHub page. A place i binge  my Coding Ideas.</h4>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <!----------------------------------------- ACTIVE GRAPH ---------------------------------->
 <a href="http://www.github.com/elidakirigo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=elidakirigo&bg_color=2d075e&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
