@@ -35,6 +35,7 @@
 * -->
 <!-- ![HTML5](https://img.shields.io/ba2d075edge/-Html5-2d075e?&logo=Html5) -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2d075e?&logo=JavaScript)
+![Solidity](https://img.shields.io/badge/-Solidity-2d075e?&logo=Solidity)
 ![JQUERY](https://img.shields.io/badge/-Jquery-2d075e?&logo=Jquery)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2d075e?&logo=TypeScript)
 ![AWS](https://img.shields.io/badge/-AWS-2d075e?&logo=Amazon-AWS&logoColor=fff)
