@@ -45,6 +45,8 @@
 ![Angular](https://img.shields.io/badge/-Angular-2d075e?&logo=Angular)
 ![SCSS](https://img.shields.io/badge/-Sass-2d075e?&logo=sass)
 ![GULP](https://img.shields.io/badge/-Gulp-2d075e?&logo=Gulp)
+![Firebase](https://img.shields.io/badge/-Firebase-2d075e?&logo=Firebase)
+![Stripe](https://img.shields.io/badge/-Stripe-2d075e?&logo=Stripe)
 
         Socials & Visit Count
 
