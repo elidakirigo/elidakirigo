@@ -47,6 +47,7 @@
 ![GULP](https://img.shields.io/badge/-Gulp-2d075e?&logo=Gulp)
 ![Firebase](https://img.shields.io/badge/-Firebase-2d075e?&logo=Firebase)
 ![Stripe](https://img.shields.io/badge/-Stripe-2d075e?&logo=Stripe)
+![Apache](https://img.shields.io/badge/-Apache-2d075e?&logo=Apache)
 
         Socials & Visit Count
 
