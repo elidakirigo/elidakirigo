@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <!----------------------------------------- ACTIVE GRAPH ---------------------------------->
-<a href="http://www.github.com/elidakirigo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=elidakirigo&bg_color=2d075e&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/elidakirigo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=elidakirigo&bg_color=2d075e&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 <!-- added
 * 1.username : elidakirigo
