@@ -43,7 +43,7 @@
 ![UBUNTU](https://img.shields.io/badge/-Linux-2d075e?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-2d075e?&logo=node.js)
 ![Angular](https://img.shields.io/badge/-Angular-2d075e?&logo=Angular)
-![SCSS](https://img.shields.io/badge/-CSS3-2d075e?&logo=CSS3)
+![SCSS](https://img.shields.io/badge/-SCSS-2d075e?&logo=SCSS)
 ![GULP](https://img.shields.io/badge/-Gulp-2d075e?&logo=Gulp)
 
         Socials & Visit Count
