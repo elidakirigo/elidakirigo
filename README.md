@@ -40,7 +40,7 @@
 ![JQUERY](https://img.shields.io/badge/-Jquery-2d075e?&logo=Jquery)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2d075e?&logo=TypeScript)
 ![AWS](https://img.shields.io/badge/-AWS-2d075e?&logo=Amazon-AWS&logoColor=fff)
-![UBUNTU](https://img.shields.io/badge/-Linux-2d075e?&logo=Linux)
+![UBUNTU](https://img.shields.io/badge/-Ubuntu-2d075e?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-2d075e?&logo=node.js)
 ![Angular](https://img.shields.io/badge/-Angular-2d075e?&logo=Angular)
 ![SCSS](https://img.shields.io/badge/-Sass-2d075e?&logo=sass)
