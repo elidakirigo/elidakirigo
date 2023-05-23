@@ -6,7 +6,7 @@
 </style> -->
 
 <h4 align="center" style="font-family:cursive">Hello <img   src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="2%" height="5%">, I'm Elida!</h4>
-<h4 style="font-family:cursive"  align="center">a UI Enthusiast and pro Front-end dev. <br/> Welcome to my GitHub page. A place i binge  my Coding Ideas.</h4>
+<h4 style="font-family:cursive"  align="center">a UI <span style="color:#2d075e">Enthusiast</span> and <span style="color:#2d075e">pro</span> Front-end dev. <br/> Welcome to my GitHub page. A place i binge  my Coding Ideas.</h4>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
