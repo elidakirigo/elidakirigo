@@ -56,7 +56,7 @@
  <h6>Profile Visits : <img src="https://profile-counter.glitch.me/elidakirigo/count.svg" width="150px"/></h6>
  
 ![commits](https://user-badge.committers.top/kenya/elidakirigo.svg)
-
+![commits](https://user-badge.committers.top/kenya/elidakirigo)
 
         GitHub's Data Statistics
 <!--------------------------------------GITHUB STATS -------------------------------------->
