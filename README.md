@@ -54,7 +54,7 @@
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/prettiekirkie?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=prettiekirkie) -->
 ![GitHub followers](https://img.shields.io/github/followers/elidakirigo?color=%23181717&label=Moon%20Pie&logo=github&style=for-the-badge)
  <h6>Profile Visits : <img src="https://profile-counter.glitch.me/elidakirigo/count.svg" width="150px"/></h6>
-
+[![commits](https://user-badge.committers.top/kenya/elidakirigo.svg)](https://user-badge.committers.top/kenya/elidakirigo)
         GitHub's Data Statistics
 <!--------------------------------------GITHUB STATS -------------------------------------->
 <!-- added
