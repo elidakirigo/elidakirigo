@@ -92,7 +92,11 @@
 * 10. bg_color : 4dbae6
 * 11. theme :graywhite 
 -->
-<img height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidakirigo&hide=html&hide_title=true&hide_border=false&layout=compact&langs_count=8&count_private=true&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&bg_color=2d075e&theme=graywhite" />
+  
+  <a href="#">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=moonpie" />
+  </a>
+<!-- <img height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidakirigo&hide=html&hide_title=true&hide_border=false&layout=compact&langs_count=8&count_private=true&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&bg_color=2d075e&theme=graywhite" /> -->
 
 </div>
 <br/>
