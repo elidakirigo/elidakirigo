@@ -11,6 +11,48 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" />
 </div>
+        GitHub's Data Statistics
+<!--------------------------------------GITHUB STATS -------------------------------------->
+<!-- added
+* 1.username : elidakirigo
+* 2. hide_title : true
+* 3. hide_border : false
+* 4. show_icons : true
+* 5. include_all_commits : false
+* 6. count_private : true
+* 7. line_height : 21
+* 8. text_color : 331e1e
+*  9. icon_color : bb068e
+*  10. bg_color : 4dbae6
+*  11. theme : graywhite
+-->
+<div align ="center">
+
+<!--<img src="https://github-readme-stats.vercel.app/api?username=elidakirigo&hide_title=true&hide_border=false&show_icons=true&include_all_commits=false&count_private=true&line_height=21&text_color=000&icon_color=b6c621&bg_color=00d211&theme=graywhite" />-->
+
+<!--         most used Lang: -->
+
+<!------------------------------------------LANGUAGES USED  ------------------------------->
+<!-- Added
+* 1. username : elidakirigo
+* 2. hide : html
+* 3. hide_title :true
+* 4. hide_border : false
+* 5. layout : compact
+* 6. langs_count : 8
+* 7. exclude_repo : *****
+* 8. text_color : 000
+* 9. icon_color : fff
+* 10. bg_color : 4dbae6
+* 11. theme :graywhite 
+-->
+  
+  <a href="#">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=moonpie&hide_title=true&hide_border=false&show_icons=true&include_all_commits=false&count_private=true&line_height=21&text_color=fff&icon_color=00d211&bg_color=0969DA&theme=graywhite" />
+  </a>
+<!-- <img height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidakirigo&hide=html&hide_title=true&hide_border=false&layout=compact&langs_count=8&count_private=true&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&bg_color=00d211&theme=graywhite" /> -->
+
+</div>
 <!----------------------------------------- ACTIVE GRAPH ---------------------------------->
 <!-- <a href="http://www.github.com/elidakirigo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=elidakirigo&bg_color=2d075e&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
@@ -57,48 +99,7 @@
 ![wakatime](https://wakatime.com/badge/user/5a0b91b8-feb8-43da-8ac6-c18bdbc8fc15.svg)
  <h6>Profile Visits : <img src="https://profile-counter.glitch.me/elidakirigo/count.svg" width="200px"/></h6>
  
-        GitHub's Data Statistics
-<!--------------------------------------GITHUB STATS -------------------------------------->
-<!-- added
-* 1.username : elidakirigo
-* 2. hide_title : true
-* 3. hide_border : false
-* 4. show_icons : true
-* 5. include_all_commits : false
-* 6. count_private : true
-* 7. line_height : 21
-* 8. text_color : 331e1e
-*  9. icon_color : bb068e
-*  10. bg_color : 4dbae6
-*  11. theme : graywhite
--->
-<div align ="center">
 
-<!--<img src="https://github-readme-stats.vercel.app/api?username=elidakirigo&hide_title=true&hide_border=false&show_icons=true&include_all_commits=false&count_private=true&line_height=21&text_color=000&icon_color=b6c621&bg_color=00d211&theme=graywhite" />-->
-
-<!--         most used Lang: -->
-
-<!------------------------------------------LANGUAGES USED  ------------------------------->
-<!-- Added
-* 1. username : elidakirigo
-* 2. hide : html
-* 3. hide_title :true
-* 4. hide_border : false
-* 5. layout : compact
-* 6. langs_count : 8
-* 7. exclude_repo : *****
-* 8. text_color : 000
-* 9. icon_color : fff
-* 10. bg_color : 4dbae6
-* 11. theme :graywhite 
--->
-  
-  <a href="#">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=moonpie&hide_title=true&hide_border=false&show_icons=true&include_all_commits=false&count_private=true&line_height=21&text_color=fff&icon_color=00d211&bg_color=0969DA&theme=graywhite" />
-  </a>
-<!-- <img height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidakirigo&hide=html&hide_title=true&hide_border=false&layout=compact&langs_count=8&count_private=true&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&bg_color=00d211&theme=graywhite" /> -->
-
-</div>
 <br/>
 <!-- ![alt text](/img/tumblr_o1n96vth4D1ufi43qo1_500.png?w=200) -->
 
