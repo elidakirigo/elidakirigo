@@ -6,7 +6,7 @@
 </style> -->
 
 <h4  style="font-family:cursive"> ✅ Hello <img   src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3%" height="5%">, I'm Elida!</h4>
-<a href=""><img src="https://readme-typing-svg.herokuapp.com?font=cursive&size=20&duration=5000&pause=500&color=000&width=1000&lines=✅+Enthusiastic+Front-End+Developer+with+basic+DB+skills.;🧩+Learning+and+Industrial+practice+in-depth+on+Problem-Solving+and+Algorithms+skills.;🏆+Welcome+to+my+GitHub+Page.;🎯+A+place+I+Binge+my+Coding+Ideas.;💎+Exploring+the+hidden+gems+in+coding+journey+worldwide"></a>
+<a href=""><img src="https://readme-typing-svg.herokuapp.com?font=cursive&size=20&duration=5000&pause=500&color=000&width=1000&lines=✅+Enthusiastic+Front-End+Developer+with+basic+DB+skills.;🧩+Learning+and+Industrial+practice+in-depth+on+Problem-Solving+and+Algorithms+skills.;🏆+Welcome+to+my+GitHub+Page.;🎯+A+place+I+Binge+my+Coding+Ideas.;💎+Exploring+the+hidden+gems+in+coding+journey+worldwide."></a>
 <!--<h4 style="font-family:cursive" >✅ a UI <span style="color:#2d075e">Enthusiast</span> and <span style="color:#2d075e">pro</span> Front-end dev. <br/>✅ Welcome to my GitHub page. A place i binge  my Coding Ideas.</h4>-->
 
 <div align="center">
