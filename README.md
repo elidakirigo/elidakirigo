@@ -6,7 +6,8 @@
 </style> -->
 
 <h4  style="font-family:cursive"> ✅ Hello <img   src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3%" height="5%">, I'm Elida!</h4>
-<h4 style="font-family:cursive" >✅ a UI <span style="color:#2d075e">Enthusiast</span> and <span style="color:#2d075e">pro</span> Front-end dev. <br/>✅ Welcome to my GitHub page. A place i binge  my Coding Ideas.</h4>
+<a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=24&duration=5000&pause=500&color=0969DA&width=100%&lines=✅+Enthusiast+Front-end+dev+Developer+with+basic+db+skills;✅+Welcome+to+my+GitHub+page.;✅+A+place+i+binge+my+Coding+Ideas;"></a>
+<!--<h4 style="font-family:cursive" >✅ a UI <span style="color:#2d075e">Enthusiast</span> and <span style="color:#2d075e">pro</span> Front-end dev. <br/>✅ Welcome to my GitHub page. A place i binge  my Coding Ideas.</h4>-->
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" />
