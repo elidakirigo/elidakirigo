@@ -12,6 +12,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" />
 </div>
 
+
         GitHub's Data Statistics
 <!--------------------------------------GITHUB STATS -------------------------------------->
 <!-- added
