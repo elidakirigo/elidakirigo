@@ -105,6 +105,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/elidakirigo?color=%23181717&label=Moon%20Pie&logo=github&style=for-the-badge)
 ![commits](https://user-badge.committers.top/kenya_private/elidakirigo.svg)
 ![wakatime](https://wakatime.com/badge/user/5a0b91b8-feb8-43da-8ac6-c18bdbc8fc15.svg)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
  <h6>Profile Visits : <img src="https://profile-counter.glitch.me/elidakirigo/count.svg" width="200px"/></h6>
  
 
@@ -117,7 +118,7 @@
 >⚡ **About me & hobbies**: i like to  do ✨ _photography_ while listening to podcasts. i'm currently teaching my mind to read articles , books and informative blogs occasionally. 
 >.
 >.
-## 😂 Here is a random joke that'll make you laugh!
+### Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ![](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 
