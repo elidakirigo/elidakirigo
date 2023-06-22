@@ -93,7 +93,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-2d075e?&logo=Firebase)
 ![Stripe](https://img.shields.io/badge/-Stripe-2d075e?&logo=Stripe)
 ![Apache](https://img.shields.io/badge/-Apache-2d075e?&logo=Apache)
-![google](https://img.shields.io/badge/-google-auth-2d075e?&logo=google)
+![google](https://img.shields.io/badge/-googleAuth-2d075e?&logo=google)
 ![NGINX](https://img.shields.io/badge/-NGINX-2d075e?&logo=nginx)
         Socials & Visit Count
 
