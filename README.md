@@ -95,6 +95,8 @@
 ![Apache](https://img.shields.io/badge/-Apache-2d075e?&logo=Apache)
 ![google](https://img.shields.io/badge/-googleAuth-2d075e?&logo=google)
 ![NGINX](https://img.shields.io/badge/-NGINX-2d075e?&logo=nginx)
+
+
         Socials & Visit Count
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/prettiekirkie?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=prettiekirkie) -->
