@@ -14,7 +14,7 @@
 </div>
 
 
-        Total Paid and UnPaid work Hours this year - Program Languages
+        work Hours this Year - Program Languages
 <!--------------------------------------GITHUB STATS -------------------------------------->
 <!-- added
 * 1.username : elidakirigo
