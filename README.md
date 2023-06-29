@@ -63,9 +63,9 @@
 <!-- added
 * 1.username : elidakirigo
 * 2.bg_color :  0D1117
-* 3.color : 5BCDEC
-* 4.line : 5BCDEC
-* 5. point : FFFFFF
+* 3. color: 5BCDEC
+* 4.line: 5BCDEC
+* 5. point: FFFFFF
 * 6. hide_border : false
 * -->
 <!--<a align ="center" href="https://github.com/elidakirigo/github-readme-activity-graph">
@@ -116,7 +116,7 @@
 ---
 >.
 >.
->⚡ **About me & hobbies**: i like to  do ✨ _photography_ while listening to podcasts. i'm currently teaching my mind to read articles , books and informative blogs occasionally. 
+>⚡ **About me & hobbies**: i like to  do ✨ _photography_ while listening to podcasts. I'm currently teaching my mind to read articles, books, and informative blogs occasionally. 
 >.
 >.
 ### Here is a joke that'll make you laugh!
