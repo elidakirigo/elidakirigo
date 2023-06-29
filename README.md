@@ -14,7 +14,7 @@
 </div>
 
 
-        GitHub's Data Statistics
+        Total Paid and UnPaid work Hours this year - Program Languages
 <!--------------------------------------GITHUB STATS -------------------------------------->
 <!-- added
 * 1.username : elidakirigo
