@@ -107,7 +107,7 @@
 ![commits](https://user-badge.committers.top/kenya_private/elidakirigo.svg)
 ![wakatime](https://wakatime.com/badge/user/5a0b91b8-feb8-43da-8ac6-c18bdbc8fc15.svg)
 <img src="https://www.codewars.com/users/moonpie254/badges/micro"/>
- <h6>Profile Visits : <img src="https://profile-counter.glitch.me/elidakirigo/count.svg" width="200px"/></h6>
+<!-- <h6>Profile Visits : <img src="https://profile-counter.glitch.me/elidakirigo/count.svg" width="200px"/></h6> -->
  
 
 <br/>
