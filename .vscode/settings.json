@@ -1,5 +1,34 @@
 {
     "cSpell.words": [
         "elida"
-    ]
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#959afe",
+        "activityBar.background": "#959afe",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#ffdfe1",
+        "activityBarBadge.foreground": "#15202b",
+        "commandCenter.border": "#e7e7e799",
+        "editorGroup.border": "#959afe",
+        "panel.border": "#959afe",
+        "sash.hoverBorder": "#959afe",
+        "sideBar.border": "#959afe",
+        "statusBar.background": "#636afd",
+        "statusBar.border": "#636afd",
+        "statusBar.debuggingBackground": "#fdf663",
+        "statusBar.debuggingBorder": "#fdf663",
+        "statusBar.debuggingForeground": "#15202b",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#959afe",
+        "statusBarItem.remoteBackground": "#636afd",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "tab.activeBorder": "#959afe",
+        "titleBar.activeBackground": "#636afd",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.border": "#636afd",
+        "titleBar.inactiveBackground": "#636afd99",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#636afd"
 }
