@@ -24,14 +24,7 @@
       </a>
       </td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/safaeean/react-native-scan-barcode"> 
-      <!-- <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" />  -->
-        <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=safaeean&repo=react-native-scan-barcode&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="100%"> -->
-      </a>
-    </td>
-  </tr>
+ 
 </table> 
 
         work Hours this Year - Program Languages
