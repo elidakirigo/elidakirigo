@@ -16,8 +16,6 @@
 
   My journey in web development began with a strong foundation in JavaScript, enabling me to build robust and interactive web applications. I have extensive hands-on experience with React and Angular frameworks, leveraging their power to create dynamic and scalable frontends. 
 
-  Through careful attention to detail and a deep understanding of UX/UI principles, I strive to craft visually appealing and intuitive designs that captivate users. As a front-end developer proficient in JavaScript, React, Angular, CSS, SCSS, and version control, I am passionate about creating engaging and intuitive user experiences.
-  
    . . ⚡ **hobbies**: i like to do ✨ _photography_ while listening to podcasts. I'm currently teaching my mind to read articles, books, and informative blogs occasionally. . .</p>
     </td>
     <td rowspan="" width="40%">
