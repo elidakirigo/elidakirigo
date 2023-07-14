@@ -10,7 +10,7 @@
 <!--<h4 style="font-family:cursive" >✅ a UI <span style="color:#2d075e">Enthusiast</span> and <span style="color:#2d075e">pro</span> Front-end dev. <br/>✅ Welcome to my GitHub page. A place i binge  my Coding Ideas.</h4>-->
 <table width="100%"> 
   <tr>
-    <td width="70%">
+    <td width="60%">
       <h2>About Me</h2> 
       <p>front-end developer with expertise in JavaScript, React, Angular, CSS, SCSS, and version control. With several years of industry experience, I have successfully delivered numerous projects, each showcasing my commitment to creating exceptional user experiences. 
 
@@ -18,7 +18,7 @@
 
   Through careful attention to detail and a deep understanding of UX/UI principles, I strive to craft visually appealing and intuitive designs that captivate users. As a front-end developer proficient in JavaScript, React, Angular, CSS, SCSS, and version control, I am passionate about creating engaging and intuitive user experiences. </p>
     </td>
-    <td rowspan="" width="30%">
+    <td rowspan="" width="40%">
       <a href="https://github.com/safaeean/safaeean">
       <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" /> 
       </a>
