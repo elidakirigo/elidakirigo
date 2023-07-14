@@ -12,7 +12,7 @@
   <tr>
     <td width="60%">
       <h2>About Me</h2> 
-      <p>Front-End Developer with expertise in JavaScript, React, Angular, CSS, SCSS, and version control. With several years of industry experience, I have successfully delivered numerous projects, each showcasing my commitment to creating exceptional user experiences. 
+      <p>Web Developer with expertise in JavaScript, React, Angular, CSS, SCSS, and version control. With several years of industry experience, I have successfully delivered numerous projects, each showcasing my commitment to creating exceptional user experiences. 
 
   My journey in web development began with a strong foundation in JavaScript, enabling me to build robust and interactive web applications. I have extensive hands-on experience with React and Angular frameworks, leveraging their power to create dynamic and scalable frontends. 
 
