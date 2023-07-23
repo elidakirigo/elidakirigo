@@ -95,8 +95,22 @@
 * -->
 <!-- ![HTML5](https://img.shields.io/ba2d075edge/-Html5-2d075e?&logo=Html5) -->
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-2d075e?&logo=JavaScript) ![Solidity](https://img.shields.io/badge/-Solidity-2d075e?&logo=Solidity) ![React](https://img.shields.io/badge/-React-2d075e?&logo=React) ![JQUERY](https://img.shields.io/badge/-Jquery-2d075e?&logo=Jquery) ![TypeScript](https://img.shields.io/badge/-TypeScript-2d075e?&logo=TypeScript) ![AWS](https://img.shields.io/badge/-AWS-2d075e?&logo=Amazon-AWS&logoColor=fff) ![UBUNTU](https://img.shields.io/badge/-Ubuntu-2d075e?&logo=Linux) ![Node.js](https://img.shields.io/badge/-Node.js-2d075e?&logo=node.js) ![Angular](https://img.shields.io/badge/-Angular-2d075e?&logo=Angular) ![SCSS](https://img.shields.io/badge/-Sass-2d075e?&logo=sass) ![GULP](https://img.shields.io/badge/-Gulp-2d075e?&logo=Gulp)
-![Firebase](https://img.shields.io/badge/-Firebase-2d075e?&logo=Firebase) ![Stripe](https://img.shields.io/badge/-Stripe-2d075e?&logo=Stripe) ![Apache](https://img.shields.io/badge/-Apache-2d075e?&logo=Apache) ![google](https://img.shields.io/badge/-googleAuth-2d075e?&logo=google) ![Tailwind](https://img.shields.io/badge/-tailwind_css-2d075e?&logo=Tailwind) ![Vite](https://img.shields.io/badge/-Vite-2d075e?&logo=Vite)
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-2d075e?&logo=JavaScript) ![Solidity](https://img.shields.io/badge/-Solidity-2d075e?&logo=Solidity) -->
+![React](https://img.shields.io/badge/-React-2d075e?&logo=React) 
+![JQUERY](https://img.shields.io/badge/-Jquery-2d075e?&logo=Jquery) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-2d075e?&logo=TypeScript) 
+![AWS](https://img.shields.io/badge/-AWS-2d075e?&logo=Amazon-AWS&logoColor=fff) 
+![UBUNTU](https://img.shields.io/badge/-Ubuntu-2d075e?&logo=Linux) 
+![Node.js](https://img.shields.io/badge/-Node.js-2d075e?&logo=node.js) 
+![Angular](https://img.shields.io/badge/-Angular-2d075e?&logo=Angular) 
+![SCSS](https://img.shields.io/badge/-Sass-2d075e?&logo=sass) 
+![GULP](https://img.shields.io/badge/-Gulp-2d075e?&logo=Gulp)
+![Firebase](https://img.shields.io/badge/-Firebase-2d075e?&logo=Firebase) 
+![Stripe](https://img.shields.io/badge/-Stripe-2d075e?&logo=Stripe) 
+![Apache](https://img.shields.io/badge/-Apache-2d075e?&logo=Apache) 
+![google](https://img.shields.io/badge/-googleAuth-2d075e?&logo=google) 
+![Tailwind](https://img.shields.io/badge/-tailwind_css-2d075e?&logo=Tailwind) 
+![Vite](https://img.shields.io/badge/-Vite-2d075e?&logo=Vite)
 
         Socials
 
