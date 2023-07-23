@@ -107,7 +107,7 @@
 ![GULP](https://img.shields.io/badge/-Gulp-2d075e?&logo=Gulp)
 ![Firebase](https://img.shields.io/badge/-Firebase-2d075e?&logo=Firebase) 
 ![Stripe](https://img.shields.io/badge/-Stripe-2d075e?&logo=Stripe) 
-![Apache](https://img.shields.io/badge/-Apache-2d075e?&logo=Apache) 
+<!--![Apache](https://img.shields.io/badge/-Apache-2d075e?&logo=Apache) -->
 ![google](https://img.shields.io/badge/-googleAuth-2d075e?&logo=google) 
 ![Tailwind](https://img.shields.io/badge/-tailwind_css-2d075e?&logo=Tailwind) 
 ![Vite](https://img.shields.io/badge/-Vite-2d075e?&logo=Vite)
