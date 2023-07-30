@@ -19,7 +19,7 @@
    . . ⚡ **hobbies**: i like to do ✨ _photography_ while listening to podcasts. I'm currently teaching my mind to read articles, books, and informative blogs occasionally. . .</p>
     </td>
     <td rowspan="" width="40%">
-      <a href="https://github.com/safaeean/safaeean">
+      <a href="https://github.com/elidakirigo">
       <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" /> 
       </a>
       </td>
