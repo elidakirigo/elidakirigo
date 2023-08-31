@@ -7,7 +7,7 @@
 [![](https://raw.githubusercontent.com/elidakirigo/elidakirigo/main/chat.svg)](https://www.linkedin.com/in/akulikov/)
 <h4  style="font-family:cursive"> ✅ Hello <img   src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3%" height="5%">, I'm Elida!</h4>
 <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=cursive&size=20&duration=5000&pause=500&color=646464&width=1000&lines=✅+Enthusiastic+Web+Developer+with+basic+DB+skills.;🧩+Learning+in-depth+on+Problem-Solving+and+Algorithms+skills.;🏆+Welcome+to+my+GitHub+Page.;🎯+A+place+I+Binge+my+Coding+Ideas.;💎+Exploring+the+hidden+gems+in+coding+journey+worldwide.;👐+Reach+me+for+more+oppotunities+on+the+link+on+my+about+section."></a>
-<!--<h4 style="font-family:cursive" >✅ a UI <span style="color:#2d075e">Enthusiast</span> and <span style="color:#2d075e">pro</span> Front-end dev. <br/>✅ Welcome to my GitHub page. A place i binge  my Coding Ideas.</h4>-->
+<!--<h4 style="font-family:cursive" >✅ a UI <span style="color:#2d075e">Enthusiast</span> and <span style="color:#2d075e">pro</span> Front-end dev. <br/>✅ Welcome to my GitHub page. A place I binge  my Coding Ideas.</h4>-->
 <table width="100%"> 
   <tr>
     <td width="60%">
@@ -62,11 +62,11 @@
 * 9. icon_color : fff
 * 10. bg_color : 4dbae6
 * 11. theme :graywhite
-   &layout=compact
+   &hide=language1,language2
 -->
 
   <a href="#">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=moonpie&hide_title=true&hide_border=false&show_icons=true&include_all_commits=false&count_private=true&line_height=21&text_color=fff&icon_color=00d211&bg_color=0969DA&theme=graywhite" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=moonpie&hide_title=true&hide_border=false&show_icons=true&hide=python&langs_count=20&include_all_commits=false&count_private=true&line_height=21&text_color=fff&icon_color=00d211&bg_color=0969DA&theme=graywhite&layout=compact" />
   </a>
 <!-- <img height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidakirigo&hide=html&hide_title=true&hide_border=false&layout=compact&langs_count=8&count_private=true&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&bg_color=00d211&theme=graywhite" /> -->
 
@@ -96,19 +96,19 @@
 <!-- ![HTML5](https://img.shields.io/ba2d075edge/-Html5-2d075e?&logo=Html5) -->
 
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-2d075e?&logo=JavaScript) ![Solidity](https://img.shields.io/badge/-Solidity-2d075e?&logo=Solidity) -->
+<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-2d075e?&logo=TypeScript)  -->
+<!-- ![SCSS](https://img.shields.io/badge/-Sass-2d075e?&logo=sass)  -->
+<!--![Apache](https://img.shields.io/badge/-Apache-2d075e?&logo=Apache) -->
+<!-- ![google](https://img.shields.io/badge/-googleAuth-2d075e?&logo=google)  -->
 ![React](https://img.shields.io/badge/-React-2d075e?&logo=React) 
-![JQUERY](https://img.shields.io/badge/-Jquery-2d075e?&logo=Jquery) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-2d075e?&logo=TypeScript) 
+![JQUERY](https://img.shields.io/badge/-Jquery-2d075e?&logo=Jquery)
 ![AWS](https://img.shields.io/badge/-AWS-2d075e?&logo=Amazon-AWS&logoColor=fff) 
 ![UBUNTU](https://img.shields.io/badge/-Ubuntu-2d075e?&logo=Linux) 
 ![Node.js](https://img.shields.io/badge/-Node.js-2d075e?&logo=node.js) 
 ![Angular](https://img.shields.io/badge/-Angular-2d075e?&logo=Angular) 
-![SCSS](https://img.shields.io/badge/-Sass-2d075e?&logo=sass) 
 ![GULP](https://img.shields.io/badge/-Gulp-2d075e?&logo=Gulp)
 ![Firebase](https://img.shields.io/badge/-Firebase-2d075e?&logo=Firebase) 
 ![Stripe](https://img.shields.io/badge/-Stripe-2d075e?&logo=Stripe) 
-<!--![Apache](https://img.shields.io/badge/-Apache-2d075e?&logo=Apache) -->
-![google](https://img.shields.io/badge/-googleAuth-2d075e?&logo=google) 
 ![Tailwind](https://img.shields.io/badge/-tailwind_css-2d075e?&logo=Tailwind) 
 ![Vite](https://img.shields.io/badge/-Vite-2d075e?&logo=Vite)
 
