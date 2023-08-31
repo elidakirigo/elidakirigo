@@ -1,6 +1,8 @@
 name: Update readme
 
 on:
+  push: 
+    branches: [dev]
   schedule:
     - cron: "0 4 * * *"
   workflow_dispatch:

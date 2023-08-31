@@ -1,7 +1,7 @@
 [![](https://raw.githubusercontent.com/kulikov-dev/kulikov-dev/main/chat.svg)](https://www.linkedin.com/in/akulikov/)
 
-<!--- Maybe in future
-[![Linkedin Badge](https://img.shields.io/badge/-Artem%20Kulikov-e9e9e9?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/kulikov-dev/)](https://www.linkedin.com/in/kulikov-dev/) 
+<!--- Maybe in future-->
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-Artem%20Kulikov-e9e9e9?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/kulikov-dev/)](https://www.linkedin.com/in/kulikov-dev/) 
 [![Gmail Badge](https://img.shields.io/badge/-kulikov.dev@gmail.com-e9e9e9?style=flat&logo=Gmail&logoColor=red&link=mailto:kulikov.dev@gmail.com)](mailto:kulikov.dev@gmail.com)
 
 ### :fire: My Stats :
@@ -12,4 +12,4 @@
 
 
 ![Metrics](https://metrics.lecoq.io/kulikov-dev)
--->
+ -->
