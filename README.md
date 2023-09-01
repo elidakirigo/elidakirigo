@@ -12,8 +12,7 @@
 
   My journey in web development began with a strong foundation in JavaScript, enabling me to build robust and interactive web applications. I have extensive hands-on experience with React and Angular frameworks, leveraging their power to create dynamic and scalable frontends. 
 
-   . . ⚡ **hobbies**: i like to do ✨ _photography_ while listening to podcasts. I'm currently teaching my mind to read articles, books, and informative blogs occasionally. . .</p>
-   <img src="https://www.codewars.com/users/moonpie254/badges/micro"/> 
+   . . ⚡ **hobbies**: i like to do ✨ _photography_ while listening to podcasts. I'm currently teaching my mind to read articles, books, and informative blogs occasionally. . .</p> 
     </td>
     <td rowspan="" width="40%">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
@@ -45,7 +44,7 @@
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/prettiekirkie?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=prettiekirkie) -->
 
-![GitHub followers](https://img.shields.io/github/followers/elidakirigo?color=%23181717&label=Moon%20Pie&logo=github&style=for-the-badge) ![commits](https://user-badge.committers.top/kenya_private/elidakirigo.svg) ![wakatime](https://wakatime.com/badge/user/5a0b91b8-feb8-43da-8ac6-c18bdbc8fc15.svg) 
+![GitHub followers](https://img.shields.io/github/followers/elidakirigo?color=%23181717&label=Moon%20Pie&logo=github&style=for-the-badge) ![commits](https://user-badge.committers.top/kenya_private/elidakirigo.svg) ![wakatime](https://wakatime.com/badge/user/5a0b91b8-feb8-43da-8ac6-c18bdbc8fc15.svg) <img src="https://www.codewars.com/users/moonpie254/badges/micro"/>
 <!-- <h6>Profile Visits : <img src="https://profile-counter.glitch.me/elidakirigo/count.svg" width="200px"/></h6> -->
 
 <br/>
