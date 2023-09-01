@@ -34,14 +34,13 @@
 ![JQUERY](https://img.shields.io/badge/-Jquery-2d075e?&logo=Jquery)
 ![AWS](https://img.shields.io/badge/-AWS-2d075e?&logo=Amazon-AWS&logoColor=fff) 
 ![UBUNTU](https://img.shields.io/badge/-Ubuntu-2d075e?&logo=Linux) 
-![Node.js](https://img.shields.io/badge/-Node.js-2d075e?&logo=node.js) 
+![Node](https://img.shields.io/badge/-Node.js-2d075e?&logo=node.js) 
 ![Angular](https://img.shields.io/badge/-Angular-2d075e?&logo=Angular) 
-![GULP](https://img.shields.io/badge/-Gulp-2d075e?&logo=Gulp)
 ![Firebase](https://img.shields.io/badge/-Firebase-2d075e?&logo=Firebase) 
-![Stripe](https://img.shields.io/badge/-Stripe-2d075e?&logo=Stripe) 
 ![Tailwind](https://img.shields.io/badge/-tailwind_css-2d075e?&logo=Tailwind) 
-![Vite](https://img.shields.io/badge/-Vite-2d075e?&logo=Vite)
-
+<!-- ![Vite](https://img.shields.io/badge/-Vite-2d075e?&logo=Vite) -->
+<!-- ![Stripe](https://img.shields.io/badge/-Stripe-2d075e?&logo=Stripe)  -->
+<!-- ![GULP](https://img.shields.io/badge/-Gulp-2d075e?&logo=Gulp) -->
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/prettiekirkie?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=prettiekirkie) -->
 
 ![GitHub followers](https://img.shields.io/github/followers/elidakirigo?color=%23181717&label=Moon%20Pie&logo=github&style=for-the-badge) ![commits](https://user-badge.committers.top/kenya_private/elidakirigo.svg) ![wakatime](https://wakatime.com/badge/user/5a0b91b8-feb8-43da-8ac6-c18bdbc8fc15.svg) <img src="https://www.codewars.com/users/moonpie254/badges/micro"/>
