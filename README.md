@@ -1,17 +1,12 @@
 <!-- <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=cursive&size=20&duration=5000&pause=500&color=646464&width=1000&lines=✅+Enthusiastic+Web+Developer+with+basic+DB+skills.;🧩+Learning+in-depth+on+Problem-Solving+and+Algorithms+skills.;🏆+Welcome+to+my+GitHub+Page.;🎯+A+place+I+Binge+my+Coding+Ideas.;💎+Exploring+the+hidden+gems+in+coding+journey+worldwide.;👐+Reach+me+for+more+oppotunities+on+the+link+on+my+about+section."></a>  -->
 <!-- |Description | Preview   | Link to get started with it   |
 | :------------: | :------------: | :------------: | -->
- [![](https://raw.githubusercontent.com/elidakirigo/elidakirigo/dev/chat.svg)](https://www.linkedin.com/in/elidakirigo/)    [![](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)](https://www.linkedin.com/in/elidakirigo/)
+ [![](https://raw.githubusercontent.com/elidakirigo/elidakirigo/dev/chat.svg)](https://www.linkedin.com/in/elidakirigo/)
 
 
 <table width="100%"> 
   <tr> 
-  <td rowspan="" width="55%">
-      <a href="#">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=moonpie&hide_title=true&hide_border=false&show_icons=true&hide=python&langs_count=20&include_all_commits=false&count_private=true&line_height=21&text_color=fff&icon_color=00d211&bg_color=0969DA&theme=graywhite&layout=compact" />
-  </a> 
-  </td>
-    <td width="45%">
+  <td width="60%">
       <h2>About Me</h2> 
       <p>Web Developer with expertise in JavaScript, React, Angular, SCSS. With several years of industry experience, I have successfully delivered numerous projects, each showcasing my commitment to creating exceptional user experiences. 
 
@@ -20,16 +15,22 @@
    . . ⚡ **hobbies**: i like to do ✨ _photography_ while listening to podcasts. I'm currently teaching my mind to read articles, books, and informative blogs occasionally. . .</p>
    <img src="https://www.codewars.com/users/moonpie254/badges/micro"/> 
     </td>
-   
+    <td rowspan="" width="40%">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
+  </td>
   </tr>
  
 </table> 
 
-<!-- <div align ="center"> 
-
+<div align ="center"> 
+  <a href="https://elidakirigo.github.io/public/">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=moonpie&hide_title=true&hide_border=false&show_icons=true&hide=python&langs_count=20&include_all_commits=false&count_private=true&line_height=21&text_color=fff&icon_color=00d211&bg_color=0969DA&theme=graywhite&layout=compact" />
+  </a> 
  
-</div> -->
+</div>
+
         More
+
 ![React](https://img.shields.io/badge/-React-2d075e?&logo=React) 
 ![JQUERY](https://img.shields.io/badge/-Jquery-2d075e?&logo=Jquery)
 ![AWS](https://img.shields.io/badge/-AWS-2d075e?&logo=Amazon-AWS&logoColor=fff) 
