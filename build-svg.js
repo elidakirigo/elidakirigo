@@ -1,4 +1,6 @@
 const WEATHER_API_KEY = process.env.WEATHER_API_KEY
+const alternative_weather_api =
+  'https://api.open-meteo.com/v1/forecast?latitude=52.52&longitude=13.41&current_weather=true&hourly=temperature_2m,relativehumidity_2m,windspeed_10m'
 
 let fs = require('fs')
 let got = require('got')
@@ -60,25 +62,26 @@ const psTime = formatDistance(new Date(2020, 12, 14), today, {
 })
 
 // Today's weather
-const locationKey = '318251'
-let url = `forecasts/v1/daily/1day/${locationKey}?apikey=${WEATHER_API_KEY}`
-console.log(url)
-got(url, { prefixUrl: WEATHER_DOMAIN })
+// const locationKey = '318251'
+// let url = `forecasts/v1/daily/1day/${locationKey}?apikey=${WEATHER_API_KEY}`
+// console.log(url)
+// got(url, { prefixUrl: alternative_weather_api })
+got(alternative_weather_api)
   .then((response) => {
-    console.log(response.body)
+    // console.log(response.body)
     let json = JSON.parse(response.body)
-
-    const degF = Math.round(json.DailyForecasts[0].Temperature.Maximum.Value)
-    const degC = Math.round(qty(`${degF} tempF`).to('tempC').scalar)
-    const icon = json.DailyForecasts[0].Day.Icon
+    console.log(json)
+    const degF = Math.round(json.current_weather.Temperature)
+    // const degC = Math.round(qty(`${degF} tempF`).to('tempC').scalar)
+    // const icon = json.DailyForecasts[0].Day.Icon
 
     fs.readFile('template.svg', 'utf-8', (error, data) => {
       if (error) {
         return
       }
 
-      data = data.replace('{degC}', degC)
-      data = data.replace('{weatherEmoji}', emojis[icon])
+      data = data.replace('{degC}', degF)
+      // data = data.replace('{weatherEmoji}', emojis[icon])
       data = data.replace('{psTime}', psTime)
       data = data.replace('{todayDay}', todayDay)
       data = data.replace('{dayBubbleWidth}', dayBubbleWidths[todayDay])

@@ -22,8 +22,8 @@ jobs:
       - run: npm install
 
       - name: Generate readme
-        env:
-          WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
+        # env:
+        #   WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
         run: node build-svg.js
 
       - name: Commit changes
@@ -33,5 +33,5 @@ jobs:
           author_email: elidakirigo@gmail.com
           message: "Auto updating my readme"
           add: "*.svg"
-        env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+        # env:
+        #   GITHUB_TOKEN: ${{ secrets.TOKEN }}

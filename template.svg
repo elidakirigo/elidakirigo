@@ -248,10 +248,10 @@
 
   </g>
 
-  <!-- Hi, I'm Artem -->
+  <!-- Hi, I'm Elida -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="133" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Artem.</text>
+    <text x="15" y="27">Hi, I'm Elida.</text>
   </g>
 
   <!-- typing 2 -->
@@ -274,8 +274,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="485" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m a team lead/project manager.</text>
-    <text x="15" y="50">Certified KMP, PSPO I, ICP/ICP-ATF, Microsoft specialist.</text>
+    <text x="15" y="27">I’m a web developer.</text>
+    <text x="15" y="50">i sometimes contribute to FOSS projects</text>
   </g>
 
   <!-- typing 3 -->
@@ -298,8 +298,8 @@
   <!-- From Istanbul... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="445" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Currently I live in Istanbul where it’s supposed to be</text>
-    <text x="15" y="50">{degC}° C and <tspan class="emoji">{weatherEmoji}</tspan> today.</text>
+    <text x="15" y="27">Currently I live in Kenya , Nairobi </text>
+    <!-- <text x="15" y="50">{degC}° C and <tspan class="emoji">{weatherEmoji}</tspan> today.</text> -->
   </g>
 
   <!-- typing 4 -->
@@ -324,7 +324,7 @@
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="255" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      You can find me on <a xlink:href="https://www.linkedin.com/in/akulikov/">LinkedIn</a>.
+      You can find me - <a>link in Bio</a>
     </text>
   </g>
 
