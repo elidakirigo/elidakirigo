@@ -324,7 +324,7 @@
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="255" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      You can find me - <a>link in Bio</a>.
+      You can find me - <a>link in Bio</a>
     </text>
   </g>
 
