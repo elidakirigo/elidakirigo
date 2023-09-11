@@ -1,28 +1,22 @@
-<!-- ## Hello There  -->
-<!-- <style>
-  font-face{
-      font-family:disney;
-  }
-</style> -->
+<!-- <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=cursive&size=20&duration=5000&pause=500&color=646464&width=1000&lines=✅+Enthusiastic+Web+Developer+with+basic+DB+skills.;🧩+Learning+in-depth+on+Problem-Solving+and+Algorithms+skills.;🏆+Welcome+to+my+GitHub+Page.;🎯+A+place+I+Binge+my+Coding+Ideas.;💎+Exploring+the+hidden+gems+in+coding+journey+worldwide.;👐+Reach+me+for+more+oppotunities+on+the+link+on+my+about+section."></a>  -->
+<!-- |Description | Preview   | Link to get started with it   |
+| :------------: | :------------: | :------------: | -->
+ [![](https://raw.githubusercontent.com/elidakirigo/elidakirigo/dev/chat.svg)](https://www.linkedin.com/in/elidakirigo/)
 
-<h4  style="font-family:cursive"> ✅ Hello <img   src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3%" height="5%">, I'm Elida!</h4>
-<a href=""><img src="https://readme-typing-svg.herokuapp.com?font=cursive&size=20&duration=5000&pause=500&color=646464&width=1000&lines=✅+Enthusiastic+Web+Developer+with+basic+DB+skills.;🧩+Learning+in-depth+on+Problem-Solving+and+Algorithms+skills.;🏆+Welcome+to+my+GitHub+Page.;🎯+A+place+I+Binge+my+Coding+Ideas.;💎+Exploring+the+hidden+gems+in+coding+journey+worldwide.;👐+Reach+me+for+more+oppotunities+on+the+link+on+my+about+section."></a>
-<!--<h4 style="font-family:cursive" >✅ a UI <span style="color:#2d075e">Enthusiast</span> and <span style="color:#2d075e">pro</span> Front-end dev. <br/>✅ Welcome to my GitHub page. A place I binge  my Coding Ideas.</h4>-->
+
 <table width="100%"> 
-  <tr>
-    <td width="60%">
+  <tr> 
+  <td width="60%">
       <h2>About Me</h2> 
-      <p>Web Developer with expertise in JavaScript, React, Angular, CSS, SCSS, and version control. With several years of industry experience, I have successfully delivered numerous projects, each showcasing my commitment to creating exceptional user experiences. 
+      <p>Web Developer with expertise in JavaScript, React, Angular, SCSS. With several years of industry experience, I have successfully delivered numerous projects, each showcasing my commitment to creating exceptional user experiences. 
 
   My journey in web development began with a strong foundation in JavaScript, enabling me to build robust and interactive web applications. I have extensive hands-on experience with React and Angular frameworks, leveraging their power to create dynamic and scalable frontends. 
 
-   . . ⚡ **hobbies**: i like to do ✨ _photography_ while listening to podcasts. I'm currently teaching my mind to read articles, books, and informative blogs occasionally. . .</p>
+   . . ⚡ **hobbies**: i like to do ✨ _photography_ while listening to podcasts. I'm currently teaching my mind to read articles, books, and informative blogs occasionally. . .</p> 
     </td>
     <td rowspan="" width="40%">
-      <a href="https://github.com/elidakirigo">
-      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" /> 
-      </a>
-      </td>
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
+  </td>
   </tr>
  
 </table> 
@@ -72,53 +66,23 @@
 <!-- <img height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidakirigo&hide=html&hide_title=true&hide_border=false&layout=compact&langs_count=8&count_private=true&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&bg_color=00d211&theme=graywhite" /> -->
 
 </div>
-<!----------------------------------------- ACTIVE GRAPH ---------------------------------->
-<!-- <a href="http://www.github.com/elidakirigo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=elidakirigo&bg_color=2d075e&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
-<!-- added
-* 1.username : elidakirigo
-* 2.bg_color :  0D1117
-* 3. color: 5BCDEC
-* 4.line: 5BCDEC
-* 5. point: FFFFFF
-* 6. hide_border : false
-* -->
-<!--<a align ="center" href="https://github.com/elidakirigo/github-readme-activity-graph">
-    <img alt="Elida Kirigo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elidakirigo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" />
-</a>-->
+        More
 
-        Languages and Tools i take focus in :
-
-<!-------------------------------------------IMAGES---------------------------------------->
-<!-- added
-* 1. name :  Html5
-* 2. color : 4dbae6
-* -->
-<!-- ![HTML5](https://img.shields.io/ba2d075edge/-Html5-2d075e?&logo=Html5) -->
-
-<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-2d075e?&logo=JavaScript) ![Solidity](https://img.shields.io/badge/-Solidity-2d075e?&logo=Solidity) -->
-<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-2d075e?&logo=TypeScript)  -->
-<!-- ![SCSS](https://img.shields.io/badge/-Sass-2d075e?&logo=sass)  -->
-<!--![Apache](https://img.shields.io/badge/-Apache-2d075e?&logo=Apache) -->
-<!-- ![google](https://img.shields.io/badge/-googleAuth-2d075e?&logo=google)  -->
 ![React](https://img.shields.io/badge/-React-2d075e?&logo=React) 
 ![JQUERY](https://img.shields.io/badge/-Jquery-2d075e?&logo=Jquery)
 ![AWS](https://img.shields.io/badge/-AWS-2d075e?&logo=Amazon-AWS&logoColor=fff) 
 ![UBUNTU](https://img.shields.io/badge/-Ubuntu-2d075e?&logo=Linux) 
-![Node.js](https://img.shields.io/badge/-Node.js-2d075e?&logo=node.js) 
+![Node](https://img.shields.io/badge/-Node.js-2d075e?&logo=node.js) 
 ![Angular](https://img.shields.io/badge/-Angular-2d075e?&logo=Angular) 
-![GULP](https://img.shields.io/badge/-Gulp-2d075e?&logo=Gulp)
 ![Firebase](https://img.shields.io/badge/-Firebase-2d075e?&logo=Firebase) 
-![Stripe](https://img.shields.io/badge/-Stripe-2d075e?&logo=Stripe) 
 ![Tailwind](https://img.shields.io/badge/-tailwind_css-2d075e?&logo=Tailwind) 
-![Vite](https://img.shields.io/badge/-Vite-2d075e?&logo=Vite)
-
-        Socials
-
+<!-- ![Vite](https://img.shields.io/badge/-Vite-2d075e?&logo=Vite) -->
+<!-- ![Stripe](https://img.shields.io/badge/-Stripe-2d075e?&logo=Stripe)  -->
+<!-- ![GULP](https://img.shields.io/badge/-Gulp-2d075e?&logo=Gulp) -->
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/prettiekirkie?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=prettiekirkie) -->
 
 ![GitHub followers](https://img.shields.io/github/followers/elidakirigo?color=%23181717&label=Moon%20Pie&logo=github&style=for-the-badge) ![commits](https://user-badge.committers.top/kenya_private/elidakirigo.svg) ![wakatime](https://wakatime.com/badge/user/5a0b91b8-feb8-43da-8ac6-c18bdbc8fc15.svg) <img src="https://www.codewars.com/users/moonpie254/badges/micro"/>
-
 <!-- <h6>Profile Visits : <img src="https://profile-counter.glitch.me/elidakirigo/count.svg" width="200px"/></h6> -->
 
 <br/>
