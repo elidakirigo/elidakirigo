@@ -273,7 +273,7 @@
    
   <!-- Work ... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="485" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="400" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I’m a web developer.</text>
     <text x="15" y="50">i sometimes contribute to FOSS projects</text>
   </g>
@@ -297,7 +297,7 @@
 
   <!-- From Istanbul... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="133" height="33" rx="18.0355" class="bubble" />
+    <rect width="120" height="50" rx="18.0355" class="bubble" />
     <text x="15" y="27">📡</text>
     <!-- <text x="15" y="50">NaN° C and <tspan class="emoji">{weatherEmoji}</tspan> today.</text> -->
   </g>
@@ -372,7 +372,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
-    <rect width="245" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Have a great Thursday! <tspan class="emoji">👋</tspan></text>  
+    <rect width="220" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Have a great Friday! <tspan class="emoji">👋</tspan></text>  
   </g>
 </svg>
