@@ -297,7 +297,7 @@
 
   <!-- From Istanbul... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="133" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="133" height="33" rx="18.0355" class="bubble" />
     <text x="15" y="27">📡</text>
     <!-- <text x="15" y="50">{degC}° C and <tspan class="emoji">{weatherEmoji}</tspan> today.</text> -->
   </g>
