@@ -1,7 +1,7 @@
 <!-- <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=cursive&size=20&duration=5000&pause=500&color=646464&width=1000&lines=✅+Enthusiastic+Web+Developer+with+basic+DB+skills.;🧩+Learning+in-depth+on+Problem-Solving+and+Algorithms+skills.;🏆+Welcome+to+my+GitHub+Page.;🎯+A+place+I+Binge+my+Coding+Ideas.;💎+Exploring+the+hidden+gems+in+coding+journey+worldwide.;👐+Reach+me+for+more+oppotunities+on+the+link+on+my+about+section."></a>  -->
 <!-- |Description | Preview   | Link to get started with it   |
 | :------------: | :------------: | :------------: | -->
- [![](https://raw.githubusercontent.com/elidakirigo/elidakirigo/dev/chat.svg)](https://www.linkedin.com/in/elidakirigo/)
+ [![](https://raw.githubusercontent.com/elidakirigo/elidakirigo/chat.svg)](https://www.linkedin.com/in/elidakirigo/)
 
 
 <table width="100%"> 
