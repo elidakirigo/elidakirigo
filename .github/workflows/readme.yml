@@ -1,8 +1,8 @@
 name: Update readme
 
 on:
-  push:
-    branches: [master, dev]
+  # push:
+  #   branches: [master, dev]
   pull_request:
     branches: [master, dev]
   schedule:
