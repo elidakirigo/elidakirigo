@@ -5,6 +5,7 @@ on:
     branches: [master, dev]
   pull_request:
     branches: [master, dev]
+ #   time in +UTC london 
   schedule:
     - cron: '35 18 * * 1-5'
     - cron: '0 19 * * 5'

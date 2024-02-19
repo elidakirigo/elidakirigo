@@ -53,16 +53,18 @@ dayBubbleWidths = {
 }
 
 // Time working at PlanetScale
+  // time in +UTC london 
 const today = new Date()
 let todayDay = new Intl.DateTimeFormat('en-US', { weekday: 'long' }).format(
   today
 )
-
+console.log(today);
 const time = new Intl.DateTimeFormat('en-GB', { timeStyle: 'long' })
   .format(today)
   .toString()
   .split(':')
 
+  // time in +GMT
 todayDay =
   todayDay == 'Friday' && time[0] >= 20 ? (todayDay = 'Weekend') : todayDay
 
