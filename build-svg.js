@@ -63,14 +63,9 @@ const time = new Intl.DateTimeFormat('en-GB', { timeStyle: 'long' })
   .toString()
   .split(':')
 
-console.log(time)
-
 todayDay =
-  todayDay == 'Thursday' && time[0] >= 16
-    ? (todayDay = 'Weekend ' + time[1])
-    : todayDay
+  todayDay == 'Friday' && time[0] >= 20 ? (todayDay = 'Weekend') : todayDay
 
-console.log(todayDay)
 const psTime = formatDistance(new Date(2020, 12, 14), today, {
   addSuffix: false,
 })
