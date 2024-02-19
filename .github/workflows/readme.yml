@@ -6,10 +6,7 @@ on:
   pull_request:
     branches: [master, dev]
   schedule:
-    # - cron: '30 16 * * 1-5'
-    - cron: '45 20 * * 1-5'
-    # - cron: '40 19 * * 4'
-    - cron: '30 17 * * 4'
+    - cron: '0 18 * * 1-5'
     # - cron: '15 * * * *'
   workflow_dispatch:
 
