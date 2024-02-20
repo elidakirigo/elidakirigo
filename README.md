@@ -8,7 +8,7 @@
   <tr> 
   <td width="60%">
       <h2>About Me</h2> 
-      <p>Web Developer with expertise in JavaScript, React, Angular, SCSS. With several years of industry experience, I have successfully delivered numerous projects, each showcasing my commitment to creating exceptional user experiences. 
+      <p>Web Developer with expertise in JavaScript, React, Angular, and SCSS. With several years of industry experience, I have successfully delivered numerous projects, each showcasing my commitment to creating exceptional user experiences. 
 
   My journey in web development began with a strong foundation in JavaScript, enabling me to build robust and interactive web applications. I have extensive hands-on experience with React and Angular frameworks, leveraging their power to create dynamic and scalable frontends. 
 
@@ -46,22 +46,22 @@
 <!------------------------------------------LANGUAGES USED  ------------------------------->
 <!-- Added
 * 1. username : elidakirigo
-* 2. hide : html
+* 2. hide: HTML
 * 3. hide_title :true
 * 4. hide_border : false
-* 5. layout : compact
+* 5. layout: compact
 * 6. langs_count : 8
 * 7. exclude_repo : *****
 * 8. text_color : 000
 * 9. icon_color : fff
 * 10. bg_color : 4dbae6
-* 11. theme :graywhite
+* 11. theme:graywhite
    &hide=language1,language2
    hide=python
 -->
 
   <a href="#">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=moonpie&hide_title=true&hide_border=false&show_icons=true&langs_count=20&include_all_commits=false&count_private=true&line_height=21&text_color=fff&icon_color=00d211&bg_color=0969DA&theme=graywhite&layout=compact" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=moonpie&hide_title=true&hide_border=false&show_icons=true&langs_count=20&include_all_commits=false&count_private=true&line_height=21&text_color=fff&icon_color=00d211&bg_color=000000&theme=graywhite&layout=compact" />
   </a>
 <!-- <img height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidakirigo&hide=html&hide_title=true&hide_border=false&layout=compact&langs_count=8&count_private=true&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&bg_color=00d211&theme=graywhite" /> -->
 
