@@ -66,7 +66,7 @@ const time = new Intl.DateTimeFormat('en-GB', { timeStyle: 'long' })
 console.log(time)
 
 todayDay =
-  todayDay == 'Thursday' && time[0] >= 17
+  todayDay == 'Thursday' && time[0] >= 16
     ? (todayDay = 'Weekend ' + time[1])
     : todayDay
 
