@@ -7,9 +7,9 @@ on:
     branches: [master, dev]
   schedule:
     # - cron: '30 16 * * 1-5'
-    - cron: '15 20 * * 1-5'
+    - cron: '45 20 * * 1-5'
     # - cron: '40 19 * * 4'
-    - cron: '20 17 * * 4'
+    - cron: '30 17 * * 4'
     # - cron: '15 * * * *'
   workflow_dispatch:
 
