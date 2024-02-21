@@ -6,8 +6,8 @@ on:
   pull_request: 
     branches: [master,dev]
   schedule:
-    # - cron: "07 18 * * 1-5"
-    - cron: "37 15 * * 1-5"
+    - cron: "39 18 * * 1-5"
+    - cron: "39 15 * * 1-5"
     - cron: "5 * * * *"
   workflow_dispatch:
 
