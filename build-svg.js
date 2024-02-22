@@ -63,7 +63,9 @@ const time = new Intl.DateTimeFormat('en-GB', { timeStyle: 'long' })
   .toString()
   .split(':')
 
-
+console.log(
+  new Date()
+)
 if (todayDay == 'Thursday' && time[0] >= 17) {
   todayDay = "Weekend"
 }
