@@ -67,9 +67,9 @@ console.log(
   new Date()
 )
 if (todayDay == 'Thursday' && time[0] >= 17) {
-  todayDay = "Weekend"
+  todayDay = "Weekend " + time[1]
 }
-
+console.log(todayDay);
 const psTime = formatDistance(new Date(2020, 12, 14), today, {
   addSuffix: false,
 })
