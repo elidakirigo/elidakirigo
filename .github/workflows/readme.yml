@@ -1,12 +1,12 @@
 name: Update readme
 
 on:
-  push: 
-    branches: [master,dev]
+  # push: 
+  #   branches: [master,dev]
   pull_request: 
     branches: [master,dev]
   schedule:
-    - cron: "55 17 * * 1-5"
+    - cron: "10 18 * * 1-5"
     - cron: "0 23 * * 5"
   workflow_dispatch:
 
