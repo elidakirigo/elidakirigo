@@ -47,15 +47,26 @@ dayBubbleWidths = {
   Wednesday: 260,
   Thursday: 245,
   Friday: 220,
-  Saturday: 245,
-  Sunday: 230,
+  Weekend: 245,
+  // Saturday: 245,
+  // Sunday: 230,
 }
 
 // Time working at PlanetScale
 const today = new Date()
-const todayDay = new Intl.DateTimeFormat('en-US', { weekday: 'long' }).format(
+let todayDay = new Intl.DateTimeFormat('en-US', { weekday: 'long' }).format(
   today
 )
+
+const time = new Intl.DateTimeFormat('en-GB', { timeStyle: 'long' })
+  .format(today)
+  .toString()
+  .split(':')
+
+
+if (todayDay == 'Friday' && time[0] >= 22) {
+  todayDay = "Weekend"
+}
 
 const psTime = formatDistance(new Date(2020, 12, 14), today, {
   addSuffix: false,
@@ -70,7 +81,7 @@ got(alternative_weather_api)
   .then((response) => {
     // console.log(response.body)
     let json = JSON.parse(response.body)
-    console.log(json)
+    // console.log(json)
     const degF = Math.round(json.current_weather.Temperature)
     // const degC = Math.round(qty(`${degF} tempF`).to('tempC').scalar)
     // const icon = json.DailyForecasts[0].Day.Icon
