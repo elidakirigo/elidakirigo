@@ -1,16 +1,16 @@
 name: Update readme
 
 on:
-  push: 
-    branches: [master,dev]
-  pull_request: 
-    branches: [master,dev]
+  push:
+    branches: [master, dev]
+  pull_request:
+    branches: [master, dev]
   schedule:
-    - cron: "0 16 * * 1-5"
-    - cron: "0 19 * * 1-5"
-    - cron: "0 19 * * 4"
-    - cron: "0 16 * * 4"
-    - cron: "5 * * * *"
+    - cron: '0 16 * * 1-5'
+    - cron: '0 19 * * 1-5'
+    - cron: '0 19 * * 4'
+    - cron: '0 16 * * 4'
+    - cron: '5 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -35,7 +35,7 @@ jobs:
         with:
           author_name: Elida Wanjiku
           author_email: elidakirigo@gmail.com
-          message: "Auto updating my readme"
-          add: "*.svg"
+          message: 'Auto updating my readme'
+          add: '*.svg'
         # env:
         #   GITHUB_TOKEN: ${{ secrets.TOKEN }}
