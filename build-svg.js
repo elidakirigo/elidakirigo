@@ -1,11 +1,13 @@
-const WEATHER_API_KEY = process.env.WEATHER_API_KEY
-const alternative_weather_api =
-  'https://api.open-meteo.com/v1/forecast?latitude=52.52&longitude=13.41&current_weather=true&hourly=temperature_2m,relativehumidity_2m,windspeed_10m'
-
 let fs = require('fs')
 let got = require('got')
 let qty = require('js-quantities')
 let formatDistance = require('date-fns/formatDistance')
+
+const WEATHER_API_KEY = process.env.WEATHER_API_KEY
+const alternative_weather_api =
+  'https://api.open-meteo.com/v1/forecast?latitude=52.52&longitude=13.41&current_weather=true&hourly=temperature_2m,relativehumidity_2m,windspeed_10m'
+
+
 
 let WEATHER_DOMAIN = 'http://dataservice.accuweather.com'
 
@@ -58,7 +60,8 @@ const today = new Date()
 let todayDay = new Intl.DateTimeFormat('en-US', { weekday: 'long' }).format(
   today
 )
-console.log(today);
+// console.log(today);
+
 const time = new Intl.DateTimeFormat('en-GB', { timeStyle: 'long' })
   .format(today)
   .toString()
