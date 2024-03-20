@@ -13,6 +13,7 @@
   My journey in web development began with a strong foundation in JavaScript, enabling me to build robust and interactive web applications. I have extensive hands-on experience with React and Angular frameworks, leveraging their power to create dynamic and scalable frontends. 
 
    . . ⚡ **hobbies**: i like to do ✨ _photography_ while listening to podcasts. I'm currently teaching my mind to read articles, books, and informative blogs occasionally. . .</p> 
+   <img src='https://img.shields.io/badge/FizzBuzz-passing-green' alt='FizzBuzz'/> 
     </td>
     <td rowspan="" width="40%">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
