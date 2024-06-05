@@ -6,8 +6,8 @@ on:
   # pull_request:
   #   branches: [master, dev] 
   #   time in +UTC london 
-   schedule:
-     - cron: '00 01 * * 1-5'
+  # schedule:
+  #   - cron: '00 01 * * 1-5'
     # - cron: '00 19 * * 5'
     # - cron: '15 * * * *'
   workflow_dispatch:
