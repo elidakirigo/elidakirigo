@@ -91,10 +91,11 @@
 <!-- ![alt text](/img/tumblr_o1n96vth4D1ufi43qo1_500.png?w=200) -->
 
 --- 
-| ![](https://raw.githubusercontent.com/elidakirigo/elidakirigo/master/graph.svg) |
-### Here is a joke that'll make you laugh!
+| Image                                                                                 | ### Here is a joke that'll make you laugh!                                  |
+|---------------------------------------------------------------------------------------|---------------------------------------------|
+| ![](https://raw.githubusercontent.com/elidakirigo/elidakirigo/master/graph.svg)       |  ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 <!-- <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=2d075e&style=flat&logo" alt="Go to Top" /></a></p> -->
 <!--![](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)-->
