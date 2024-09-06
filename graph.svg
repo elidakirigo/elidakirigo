@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="100" viewBox="0 0 400 200">
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="300" viewBox="0 0 400 450">
 	<style>
 		* {
 			font-family: "Ubuntu", "Helvetica", "Arial", sans-serif;
 		}
 	</style>
-	<!-- <rect x="0" y="0" width="500" height="500" fill="#ffffff">
-	</rect> -->
-	<g transform="translate(150, 250)">
+	<rect x="0" y="0" width="700" height="1500" fill="#ffffff">
+	</rect>
+	<g transform="translate(300, 250)">
 		<line x1="0" y1="-31.2" x2="29.67" y2="-9.64" style="stroke: gray; stroke-dasharray: 4 4; stroke-width: 1px;">
 		</line>
 		<line x1="29.67" y1="-9.64" x2="18.34" y2="25.24"
