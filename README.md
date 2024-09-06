@@ -91,7 +91,7 @@
 <!-- ![alt text](/img/tumblr_o1n96vth4D1ufi43qo1_500.png?w=200) -->
 
 --- 
-| [![](https://raw.githubusercontent.com/elidakirigo/elidakirigo/master/graph.svg)] |
+| ![](https://raw.githubusercontent.com/elidakirigo/elidakirigo/master/graph.svg) |
 ### Here is a joke that'll make you laugh!
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
