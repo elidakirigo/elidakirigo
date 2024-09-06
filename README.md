@@ -91,9 +91,10 @@
 <!-- ![alt text](/img/tumblr_o1n96vth4D1ufi43qo1_500.png?w=200) -->
 
 --- 
-| Image                                       | Heres a joke that'll make you Laugh                                        |
-|---------------------------------------------|---------------------------------------------|
-| ![Graph Image](https://raw.githubusercontent.com/elidakirigo/elidakirigo/master/graph.svg) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
+
+| ![Graph Image](https://raw.githubusercontent.com/elidakirigo/elidakirigo/master/graph.svg) |Heres a joke that'll make you Laugh <br/> ![Jokes Card](https://readme-jokes.vercel.app/api) |
+|:---:|:---:|
+
 
 
 
