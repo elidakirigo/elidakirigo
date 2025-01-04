@@ -10,6 +10,7 @@
     "badge-maker": "^3.3.1",
     "date-fns": "^2.22.1",
     "got": "^11.8.5",
-    "js-quantities": "^1.7.6"
+    "js-quantities": "^1.7.6",
+    "readme-messages": "file:"
   }
 }
