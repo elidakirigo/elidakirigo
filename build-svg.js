@@ -7,8 +7,6 @@ const WEATHER_API_KEY = process.env.WEATHER_API_KEY
 const alternative_weather_api =
   'https://api.open-meteo.com/v1/forecast?latitude=52.52&longitude=13.41&current_weather=true&hourly=temperature_2m,relativehumidity_2m,windspeed_10m'
 
-
-
 let WEATHER_DOMAIN = 'http://dataservice.accuweather.com'
 
 const emojis = {
@@ -55,7 +53,7 @@ dayBubbleWidths = {
 }
 
 // Time working at PlanetScale
-  // time in +UTC london 
+// time in +UTC london
 const today = new Date()
 let todayDay = new Intl.DateTimeFormat('en-US', { weekday: 'long' }).format(
   today
@@ -67,9 +65,11 @@ const time = new Intl.DateTimeFormat('en-GB', { timeStyle: 'long' })
   .toString()
   .split(':')
 
-  // time in +GMT
+// time in +GMT
 todayDay =
-  todayDay == 'Friday' && time[0] >= 20 ? (todayDay = 'Weekend') : todayDay
+  todayDay == 'Friday' || 'Saturday' || 'Sunday'
+    ? (todayDay = 'Weekend')
+    : todayDay
 
 const psTime = formatDistance(new Date(2020, 12, 14), today, {
   addSuffix: false,
@@ -98,7 +98,7 @@ got(alternative_weather_api)
       // data = data.replace('{weatherEmoji}', emojis[icon])
       data = data.replace('{psTime}', psTime)
       data = data.replace('{todayDay}', todayDay)
-      data = data.replace('{dayBubbleWidth}', dayBubbleWidths[todayDay])
+      data = data.replace('{dayBubbleWidths}', dayBubbleWidths[todayDay])
 
       data = fs.writeFile('chat.svg', data, (err) => {
         if (err) {
