@@ -12,5 +12,8 @@
     "got": "^11.8.5",
     "js-quantities": "^1.7.6",
     "readme-messages": "file:"
+  },
+  "scripts": {
+    "build": "node build-svg.js"
   }
 }
