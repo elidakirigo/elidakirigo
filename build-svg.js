@@ -67,7 +67,7 @@ const time = new Intl.DateTimeFormat('en-GB', { timeStyle: 'long' })
 
 // time in +GMT
 todayDay =
-  todayDay == 'Friday' || 'Saturday' || 'Sunday'
+  todayDay == 'Saturday' || todayDay == 'Sunday'
     ? (todayDay = 'Weekend')
     : todayDay
 
