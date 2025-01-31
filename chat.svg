@@ -292,9 +292,9 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="377" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="195" height="46.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I’m a web developer.</text>
-    <text x="15" y="50">I sometimes contribute to FOSS projects</text>
+  
   </g>
 
   <!-- typing 3 -->
