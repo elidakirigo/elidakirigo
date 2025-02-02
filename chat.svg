@@ -122,36 +122,36 @@
     @keyframes msg-3 {
       0% {
         opacity: 0;
-        transform: translate(10px, 125px);
+        transform: translate(10px, 105px);
       }
 
       100% {
         opacity: 1;
-        transform: translate(10px, 120px);
+        transform: translate(10px, 100px);
       }
     }
 
     @keyframes msg-4 {
       0% {
         opacity: 0;
-        transform: translate(10px, 197px);
+        transform: translate(10px, 157px);
       }
 
       100% {
         opacity: 1;
-        transform: translate(10px, 192px);
+        transform: translate(10px, 152px);
       }
     }
 
     @keyframes msg-5 {
       0% {
         opacity: 0;
-        transform: translate(10px, 245px);
+        transform: translate(10px, 205px);
       }
 
       100% {
         opacity: 1;
-        transform: translate(10px, 240px);
+        transform: translate(10px, 200px);
       }
     }
 
@@ -298,7 +298,7 @@
   </g>
 
   <!-- typing 3 -->
-  <g transform="translate(10, 120)" class="typing-3">
+  <g transform="translate(10, 100)" class="typing-3">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -312,43 +312,19 @@
     <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
       <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
     </circle>
-  </g>
+  </g> 
 
-  <!-- From kenya... --> 
-  <g transform="translate(10, 120)" class="msg-3">
-    <rect width="60" height="50" rx="18.0355" class="bubble" />
-    <text x="15" y="27">📡</text>
-    <!-- <text x="15" y="50">NaN° C and <tspan class="emoji">{weatherEmoji}</tspan> today.</text> -->
-  </g>
-
-  <!-- typing 4 -->
-  <g transform="translate(10, 192)" class="typing-4">
-    <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
-    <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
-    <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
-
-    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
-    </circle>
-
-  </g>
 
   <!-- LinkedIn -->
-  <g transform="translate(10, 192)" class="msg-4">
-    <rect width="255" height="42" rx="18.0355" class="bubble" />
+  <g transform="translate(10, 100)" class="msg-3">
+    <rect width="300" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      You can find me - <a>link in Bio</a>
+      to reach out - <a>info@elidakirigo.ink</a>
     </text>
   </g>
 
-  <!-- typing 5 -->
-  <g transform="translate(10, 240)" class="typing-5">
+  <!-- typing 4 -->
+  <g transform="translate(10, 152)" class="typing-4">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -366,13 +342,13 @@
   </g>
 
   <!-- Thanks -->
-  <g transform="translate(10, 240)" class="msg-5">
+  <g transform="translate(10, 152)" class="msg-4">
     <rect width="225" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Thanks for stopping by.</text>
   </g>
 
-  <!-- typing 6 -->
-  <g transform="translate(10, 288)" class="typing-6">
+  <!-- typing 5 -->
+  <g transform="translate(10, 200)" class="typing-5">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -390,7 +366,7 @@
   </g>
 
   <!-- Have a great... -->
-  <g transform="translate(10, 288)" class="msg-6">
+  <g transform="translate(10, 200)" class="msg-5">
     <rect width="245" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Have a great Weekend! <tspan class="emoji">👋</tspan></text>
   </g>

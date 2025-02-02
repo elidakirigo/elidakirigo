@@ -3,24 +3,26 @@
 | :------------: | :------------: | :------------: | -->
  [![](https://raw.githubusercontent.com/elidakirigo/elidakirigo/master/chat.svg)](https://www.linkedin.com/in/elidakirigo/)
 
-
 <table width="100%"> 
   <tr> 
   <td width="60%">
       <h2>About Me</h2> 
-      <p>Web Developer with expertise in JavaScript, React, Angular, and SCSS. With several years of industry experience, I have successfully delivered numerous projects, each showcasing my commitment to creating exceptional user experiences. 
+      <p>Web Developer with expertise in JavaScript, React, Angular, and SCSS. With several years of industry experience, I have successfully delivered numerous projects, each showcasing my commitment to creating exceptional user experiences.
 
-  My journey in web development began with a strong foundation in JavaScript, enabling me to build robust and interactive web applications. I have extensive hands-on experience with React and Angular frameworks, leveraging their power to create dynamic and scalable frontends. 
+My journey in web development began with a strong foundation in JavaScript, enabling me to build robust and interactive web applications. I have extensive hands-on experience with React and Angular frameworks, leveraging their power to create dynamic and scalable frontends.
 
-   . . ⚡ **hobbies**: i like to do ✨ _photography_ while listening to podcasts. I'm currently teaching my mind to read articles, books, and informative blogs occasionally. . .</p> 
-   <img src='https://img.shields.io/badge/FizzBuzz-passing-00c2e0' alt='FizzBuzz'/> 
-    </td>
-    <td rowspan="" width="40%">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
+. . ⚡ **hobbies**: I like to do ✨ _photography_ while listening to podcasts. I'm currently teaching my mind to read articles, books, and informative blogs occasionally. . .</p>
+![GitHub followers](https://img.shields.io/github/followers/elidakirigo?color=%23181717&label=Moon%20Pie&logo=github&style=for-the-badge)
+<img src='https://img.shields.io/badge/FizzBuzz-passing-00c2e0' alt='FizzBuzz'/>
+
+</td>
+<td rowspan="" width="40%">
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
+
   </td>
   </tr>
  
-</table> 
+</table>
 
         work Hours this Year - Program Languages
 
@@ -62,29 +64,28 @@
 -->
 
   <a href="https://wakatime.com/@moonpie">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=moonpie&hide=HTML,CSS,OTHER,TEXT&hide_title=true&hide_border=false&show_icons=true&langs_count=10&include_all_commits=false&count_private=true&line_height=21&text_color=fff&icon_color=00d211&bg_color=000000&theme=graywhite&layout=compact" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=moonpie&hide=HTML,CSS,OTHER,TEXT,MARKDOWN&hide_title=true&hide_border=false&show_icons=true&langs_count=8&include_all_commits=false&count_private=true&line_height=21&text_color=fff&icon_color=00d211&bg_color=000000&theme=graywhite&layout=compact" />
   </a>
 <!-- <img height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidakirigo&hide=html&hide_title=true&hide_border=false&layout=compact&langs_count=8&count_private=true&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&bg_color=00d211&theme=graywhite" /> -->
 
 </div>
 
-        More
-
-![React](https://img.shields.io/badge/-React-2d075e?&logo=React) 
+<!-- ![React](https://img.shields.io/badge/-React-2d075e?&logo=React)
 ![JQUERY](https://img.shields.io/badge/-Jquery-2d075e?&logo=Jquery)
-![AWS](https://img.shields.io/badge/-AWS-2d075e?&logo=Amazon-AWS&logoColor=fff) 
-![UBUNTU](https://img.shields.io/badge/-Ubuntu-2d075e?&logo=Linux) 
-![Node](https://img.shields.io/badge/-Node.js-2d075e?&logo=node.js) 
-![Angular](https://img.shields.io/badge/-Angular-2d075e?&logo=Angular) 
-![Firebase](https://img.shields.io/badge/-Firebase-2d075e?&logo=Firebase) 
-![Tailwind](https://img.shields.io/badge/-tailwind_css-2d075e?&logo=Tailwind) 
+![AWS](https://img.shields.io/badge/-AWS-2d075e?&logo=Amazon-AWS&logoColor=fff)
+![UBUNTU](https://img.shields.io/badge/-Ubuntu-2d075e?&logo=Linux)
+![Node](https://img.shields.io/badge/-Node.js-2d075e?&logo=node.js)
+![Angular](https://img.shields.io/badge/-Angular-2d075e?&logo=Angular)
+![Firebase](https://img.shields.io/badge/-Firebase-2d075e?&logo=Firebase)
+![Tailwind](https://img.shields.io/badge/-tailwind_css-2d075e?&logo=Tailwind)  -->
 <!-- ![Vite](https://img.shields.io/badge/-Vite-2d075e?&logo=Vite) -->
 <!-- ![Stripe](https://img.shields.io/badge/-Stripe-2d075e?&logo=Stripe)  -->
 <!-- ![GULP](https://img.shields.io/badge/-Gulp-2d075e?&logo=Gulp) -->
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/prettiekirkie?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=prettiekirkie) -->
 <!-- ![wakatime](https://wakatime.com/badge/user/5a0b91b8-feb8-43da-8ac6-c18bdbc8fc15.svg) <img src="https://www.codewars.com/users/moonpie254/badges/micro"/>-->
-![GitHub followers](https://img.shields.io/github/followers/elidakirigo?color=%23181717&label=Moon%20Pie&logo=github&style=for-the-badge) ![commits](https://user-badge.committers.top/kenya_private/elidakirigo.svg) 
-[![](https://badges.peiyuan.ch/leetcode/elidakirigo/ranking?label=elidakirigo&logo=leetcode)](https://leetcode.com/elidakirigo)
+
+ <!-- ![commits](https://user-badge.committers.top/kenya_private/elidakirigo.svg)  -->
+<!-- [![](https://badges.peiyuan.ch/leetcode/elidakirigo/ranking?label=elidakirigo&logo=leetcode)](https://leetcode.com/elidakirigo) -->
 <!-- <h6>Profile Visits : <img src="https://profile-counter.glitch.me/elidakirigo/count.svg" width="200px"/></h6> -->
 
 <br/>
