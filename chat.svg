@@ -1,4 +1,4 @@
-<svg width="550" height="350" viewBox="0 0 550 350" fill="none" xmlns="http://www.w3.org/2000/svg"
+<svg width="550" height="250" viewBox="0 0 550 250" fill="none" xmlns="http://www.w3.org/2000/svg"
   xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     .bubble {
@@ -367,7 +367,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 200)" class="msg-5">
-    <rect width="245" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Have a great Weekend! <tspan class="emoji">👋</tspan></text>
+    <rect width="235" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Have a great Monday! <tspan class="emoji">👋</tspan></text>
   </g>
 </svg>
