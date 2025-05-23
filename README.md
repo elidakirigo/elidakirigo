@@ -12,8 +12,8 @@
 My journey in web development began with a strong foundation in JavaScript, enabling me to build robust and interactive web applications. I have extensive hands-on experience with React and Angular frameworks, leveraging their power to create dynamic and scalable frontends.
 
 . . ⚡ **hobbies**: I like to do ✨ _photography_ while listening to podcasts. I'm currently teaching my mind to read articles, books, and informative blogs occasionally. . .</p>
-![GitHub followers](https://img.shields.io/github/followers/elidakirigo?color=%23181717&label=Moon%20Pie&logo=github&style=for-the-badge)
-<img src='https://img.shields.io/badge/FizzBuzz-passing-00c2e0' alt='FizzBuzz'/>
+<!--![GitHub followers](https://img.shields.io/github/followers/elidakirigo?color=%23181717&label=Moon%20Pie&logo=github&style=for-the-badge)
+<img src='https://img.shields.io/badge/FizzBuzz-passing-00c2e0' alt='FizzBuzz'/>-->
 
 </td>
 <td rowspan="" width="40%">
@@ -64,7 +64,7 @@ My journey in web development began with a strong foundation in JavaScript, enab
 -->
 
   <a href="https://wakatime.com/@moonpie">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=moonpie&hide=HTML,CSS,OTHER,TEXT,MARKDOWN&hide_title=true&hide_border=false&show_icons=true&langs_count=8&include_all_commits=false&count_private=true&line_height=21&text_color=fff&icon_color=00d211&bg_color=000000&theme=graywhite&layout=compact" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=moonpie&hide=HTML,CSS,OTHER,TEXT,MARKDOWN&hide_title=true&hide_border=false&show_icons=true&langs_count=6&include_all_commits=false&count_private=true&line_height=21&text_color=fff&icon_color=00d211&bg_color=000000&theme=graywhite&layout=compact" />
   </a>
 <!-- <img height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidakirigo&hide=html&hide_title=true&hide_border=false&layout=compact&langs_count=8&count_private=true&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&bg_color=00d211&theme=graywhite" /> -->
 
