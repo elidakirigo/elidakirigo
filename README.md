@@ -7,11 +7,12 @@
   <tr> 
   <td width="60%">
       <h2>About Me</h2> 
-      <p>Web Developer with expertise in JavaScript, React, Angular, and SCSS. With several years of industry experience, I have successfully delivered numerous projects, each showcasing my commitment to creating exceptional user experiences.
+      <p>I’m a software developer who loves setting goals and turning ideas into reality. Over the years, I’ve worked on projects that deliver smooth, engaging experiences for users and measurable results for businesses.
+      
+  I started out building simple websites and have grown into creating complex, high-performing applications that are intuitive, reliable, and built to scale. My approach combines creativity, problem-solving, and a focus on quality, ensuring every project makes an impact
 
-My journey in web development began with a strong foundation in JavaScript, enabling me to build robust and interactive web applications. I have extensive hands-on experience with React and Angular frameworks, leveraging their power to create dynamic and scalable frontends.
-
-. . ⚡ **hobbies**: I like to do ✨ _photography_ while listening to podcasts. I'm currently teaching my mind to read articles, books, and informative blogs occasionally. . .</p>
+  . . ⚡ **hobbies**: I like to do ✨ _photography_ while listening to podcasts. I'm currently teaching my mind to read articles, books, and informative blogs occasionally. . .
+  </p>
 <!--![GitHub followers](https://img.shields.io/github/followers/elidakirigo?color=%23181717&label=Moon%20Pie&logo=github&style=for-the-badge)
 <img src='https://img.shields.io/badge/FizzBuzz-passing-00c2e0' alt='FizzBuzz'/>-->
 
