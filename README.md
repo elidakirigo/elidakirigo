@@ -1,12 +1,12 @@
 <!-- <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=cursive&size=20&duration=5000&pause=500&color=646464&width=1000&lines=✅+Enthusiastic+Web+Developer+with+basic+DB+skills.;🧩+Learning+in-depth+on+Problem-Solving+and+Algorithms+skills.;🏆+Welcome+to+my+GitHub+Page.;🎯+A+place+I+Binge+my+Coding+Ideas.;💎+Exploring+the+hidden+gems+in+coding+journey+worldwide.;👐+Reach+me+for+more+oppotunities+on+the+link+on+my+about+section."></a>  -->
 <!-- |Description | Preview   | Link to get started with it   |
 | :------------: | :------------: | :------------: | -->
- [![](https://raw.githubusercontent.com/elidakirigo/elidakirigo/master/chat.svg)](https://www.linkedin.com/in/elidakirigo/)
+[![](https://raw.githubusercontent.com/elidakirigo/elidakirigo/master/chat.svg)](https://www.linkedin.com/in/elidakirigo/)
 
-<table width="100%"> 
-  <tr> 
+<table width="100%">
+  <tr>
   <td width="60%">
-      <h2>About Me</h2> 
+      <h2>About Me</h2>
       <p>I’m a software developer who loves setting goals and turning ideas into reality. Over the years, I’ve worked on projects that deliver smooth, engaging experiences for users and measurable results for businesses.
       
   I started out building simple websites and have grown into creating complex, high-performing applications that are intuitive, reliable, and built to scale. My approach combines creativity, problem-solving, and a focus on quality, ensuring every project makes an impact
@@ -22,7 +22,6 @@
 
   </td>
   </tr>
- 
 </table>
 
 <!--        work Hours this Year - Program Languages -->
@@ -91,15 +90,10 @@
 
 <br/>
 <!-- ![alt text](/img/tumblr_o1n96vth4D1ufi43qo1_500.png?w=200) -->
-
---- 
 <!--
 | ![Graph Image](https://raw.githubusercontent.com/elidakirigo/elidakirigo/master/graph.svg) |<h3>Heres a joke that'll make you Laugh</h3><br/> <br/> ![Jokes Card](https://readme-jokes.vercel.app/api) |
 |:---:|:---:|
 -->
-
-
-
 
 <!-- <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=2d075e&style=flat&logo" alt="Go to Top" /></a></p> -->
 <!--![](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)-->
@@ -114,6 +108,4 @@
 
  --------------------------------------IFRAME------------------------------------------------------------------------
 <iframe src="https://giphy.com/embed/xT9DPCU60mRbtGw7Ys" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/spongebob-cartoon-nickelodeon-thumbs-xT9DPCU60mRbtGw7Ys">via GIPHY</a></p>
-
-
 -->
