@@ -41,7 +41,7 @@
 *  10. bg_color : 4dbae6
 *  11. theme : graywhite
 -->
-<div align ="center">
+<!-- <div align ="center"> -->
 
 <!--<img src="https://github-readme-stats.vercel.app/api?username=elidakirigo&hide_title=true&hide_border=false&show_icons=true&include_all_commits=false&count_private=true&line_height=21&text_color=000&icon_color=b6c621&bg_color=00d211&theme=graywhite" />-->
 
