@@ -96,7 +96,7 @@
 <!--
 | ![Graph Image](https://raw.githubusercontent.com/elidakirigo/elidakirigo/master/graph.svg) |<h3>Heres a joke that'll make you Laugh</h3><br/> <br/> ![Jokes Card](https://readme-jokes.vercel.app/api) |
 |:---:|:---:|
-
+-->
 
 
 
