@@ -269,8 +269,8 @@
 
   <!-- Hi, I'm Elida -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="133" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Elida.</text>
+    <rect width="149" height="42" rx="18.0355" />
+    <text x="15" y="27">Hi, I'm Wanjiku.</text>
   </g>
 
   <!-- typing 2 -->
@@ -292,7 +292,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="215" height="46.1302" rx="18.0355" class="bubble" />
+    <rect width="215" height="42.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">A Software Developer.</text>
   
   </g>
@@ -317,9 +317,9 @@
 
   <!-- LinkedIn -->
   <g transform="translate(10, 100)" class="msg-3">
-    <rect width="300" height="42" rx="18.0355" class="bubble" />
+    <rect width="310" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      to reach out - <a>info@elidakirigo.ink</a>
+      to reach out - <a>info@elidakirigo.dev</a>
     </text>
   </g>
 
