@@ -269,7 +269,7 @@
 
   <!-- Hi, I'm Elida -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="147" height="42" rx="18.0355" />
+    <rect width="149" height="42" rx="18.0355" />
     <text x="15" y="27">Hi, I'm Wanjiku.</text>
   </g>
 
@@ -317,9 +317,9 @@
 
   <!-- LinkedIn -->
   <g transform="translate(10, 100)" class="msg-3">
-    <rect width="300" height="42" rx="18.0355" class="bubble" />
+    <rect width="310" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      to reach out - <a>info@elidakirigo.ink</a>
+      to reach out - <a>info@elidakirigo.dev</a>
     </text>
   </g>
 
